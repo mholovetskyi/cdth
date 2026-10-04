@@ -1,0 +1,1160 @@
+gppd_idnr,name,capacity_mw,latitude,longitude,primary_fuel,commissioning_year,owner,source
+CAN0007595,13th Side Road,9.5,42.855,-80.3607,Solar,,Skypower Ltd / Sunedison,Natural Resources Canada
+CAN0007597,Aberfeldie,24.0,49.4933,-115.3624,Hydro,,BC Hydro,Natural Resources Canada
+CAN0002096,Abitibi Canyon,349.0,49.8822,-81.567,Hydro,,,Natural Resources Canada
+CAN0007596,Abénaquis,2.1,45.4052,-71.8932,Hydro,,Ville de Sherbrooke /Hydro Sherbrooke,Natural Resources Canada
+CAN0007599,Adam-Cunningham,7.0,48.6581,-71.1708,Hydro,,Hydro Saguenay,Natural Resources Canada
+CAN0007600,Adelaide,59.9,42.9877,-81.7068,Wind,,Kerwood Wind  LP,Natural Resources Canada
+CAN0007601,Adelaide (Suncor),40.0,43.0184,-81.7392,Wind,,Suncor Adelaide Wind LP,Natural Resources Canada
+CAN0007602,Adelaide 1,10.0,42.9585,-81.6708,Solar,,Met Fiera Solar Adelaide 1 LP,Natural Resources Canada
+CAN0007603,Aeolus,3.0,47.0368,-64.0051,Wind,,PEI Energy Corp,Natural Resources Canada
+CAN0007604,Aguasabon,45.0,48.7867,-87.161,Hydro,,,Natural Resources Canada
+CAN0007605,Aishihik,37.0,61.0351,-137.0509,Hydro,,,Natural Resources Canada
+CAN0007606,Akolkolex,10.0,50.8227,-118.0295,Hydro,,TransAlta (100%),Natural Resources Canada
+CAN0002097,AlPac Boyle,125.0,54.921,-112.8622,Biomass,,APF Athabasca,Natural Resources Canada
+CAN0007607,Alderville 3,5.0,44.1939,-78.0946,Solar,,Alderville Solar LP,Natural Resources Canada
+CAN0007608,Alexander,69.0,49.1355,-88.358,Hydro,,,Natural Resources Canada
+CAN0007609,Alfred,10.0,45.54,-74.8878,Solar,,2225228 Ontario Inc,Natural Resources Canada
+CAN1060003,Algoma Cogeneration,63.0,49.5244,-84.3712,Gas,2009.0,Essar Steel Algoma,Canadian Power Plant Database
+CAN0007610,Almonte,5.0,45.2258,-76.1981,Hydro,,,Natural Resources Canada
+CAN0008573,Amherst Community Wind Farm,6.0,45.83,-64.144,Wind,,Natural Forces,Natural Resources Canada
+CAN0007612,Amherst I,31.5,45.8267,-64.2417,Wind,,,Natural Resources Canada
+CAN0007613,Amherstburg Solar,10.0,42.1449,-83.0769,Solar,,Ge Energy Financial (90%) / Fiera Axium Infrastructure (10%),Natural Resources Canada
+CAN0007614,Amherstburg-1,20.0,42.1637,-83.0807,Solar,,Capstone Infrastructure Corp,Natural Resources Canada
+CAN0007615,Amherstburg-2,15.0,42.169,-83.0876,Solar,,Enbridge,Natural Resources Canada
+CAN0007616,Andrews,47.0,47.2386,-84.6461,Hydro,,Brookfield Renewable Power Inc,Natural Resources Canada
+CAN0007617,Annacis Island Wwtp,3.2,49.1668,-122.9497,Biomass,,,Natural Resources Canada
+CAN0007618,Annapolis Tidal,20.0,44.753,-65.5119,Wave and Tidal,,Nova Scotia Power Inc,Natural Resources Canada
+CAN0007619,Appleton,1.4,45.1829,-76.1267,Hydro,,Canadian Hydro Developers  Inc,Natural Resources Canada
+CAN0007620,Ardenville,69.0,49.583,-113.4351,Wind,,TransAlta,Natural Resources Canada
+CAN0007621,Aria,9.0,44.629,-79.8493,Solar,,Concord Aria Partnership,Natural Resources Canada
+CAN0002098,Armow,180.0,44.2044,-81.4574,Wind,,Sp Armow Wind Ontario LP,Natural Resources Canada
+CAN0007623,Armstrong Cogeneration,20.0,50.3922,-119.2259,Biomass,,Tolko BC,Natural Resources Canada
+CAN0007624,Arnprior,82.0,45.4187,-76.347,Hydro,,,Natural Resources Canada
+CAN0007625,Arnprior Solar,23.4,45.4083,-76.275,Solar,,EDF Energies Nouvelles,Natural Resources Canada
+CAN0002099,Arrow Lakes,185.0,49.343,-117.7688,Hydro,,Columbia Power (50%) / Columbia Basin Trust (50%),Natural Resources Canada
+CAN0007627,Arthur,10.0,43.8478,-80.5152,Wind,,Arthur Wind Farm Ltd Partnership,Natural Resources Canada
+CAN0007628,Ash River,28.0,49.3734,-125.1506,Hydro,,BC Hydro,Natural Resources Canada
+CAN0007629,Ashlu Creek,49.9,49.9143,-123.325,Hydro,,Innergex Inc,Natural Resources Canada
+CAN0007630,Atholville,21.0,47.9927,-66.7225,Biomass,,,Natural Resources Canada
+CAN0002100,Atikokan-G1,215.0,48.8381,-91.5708,Biomass,,Ontario Power Generation Inc,Natural Resources Canada
+CAN0002101,Aubrey Falls,162.0,46.9095,-83.2129,Hydro,,Brookfield Renewable Power Inc,Natural Resources Canada
+CAN0007633,Auburn,2.0,44.3235,-78.314,Hydro,,,Natural Resources Canada
+CAN0007634,Auld's Mountain,4.6,45.5949,-62.3745,Wind,,,Natural Resources Canada
+CAN1060031,Aurora,85.0,50.65,-102.0843,Gas,1999.0,Syncrude,Canadian Power Plant Database
+CAN0002020,Aurora,160.0,57.298,-111.506,Gas,,Syncrude,Natural Resources Canada
+CAN0007635,Avon 1,4.6,44.8815,-64.2173,Hydro,,,Natural Resources Canada
+CAN0007636,Avon 2,3.5,44.8732,-64.2288,Hydro,,,Natural Resources Canada
+CAN0008574,Avondale Community Wind Park,1.6,45.633,-62.2784,Wind,,Northumberland Wind Field Inc,Natural Resources Canada
+CAN0007637,Ayers-1,4.8,45.6367,-74.3605,Hydro,,Ayers Limitée,Natural Resources Canada
+CAN0007638,Ayers-2,1.0,45.6436,-74.3539,Hydro,,Ayers Limitée,Natural Resources Canada
+CAN0008575,Baddeck Community Wind Project,1.7,46.147,-60.6962,Wind,,Scotian Wind Fields,Natural Resources Canada
+CAN0002102,Baie-des-Sables,109.5,48.7066,-67.8841,Wind,,TransCanada Wind (72%) / Innergex Inc (38%),Natural Resources Canada
+CAN0007640,Balsam Lake,3.0,44.651,-78.7587,Solar,,Balsam Lake LP,Natural Resources Canada
+CAN0002021,Balzac,120.0,51.1912,-113.9424,Gas,,Encana/Nexen,Natural Resources Canada
+CAN0007641,Barr Creek,4.4,49.9278,-126.7602,Hydro,,Synex (80%) / Ehattesaht Tribe (20%),Natural Resources Canada
+CAN0007642,Barrachois,4.0,46.1529,-60.4071,Wind,,,Natural Resources Canada
+CAN0007643,Barrage-Larocque,10.6,45.4791,-71.9532,Hydro,,Hydro Bromptonville Inc/Kruger,Natural Resources Canada
+CAN0002103,Barrett Chute,176.0,45.2499,-76.759,Hydro,,,Natural Resources Canada
+CAN0007645,Barrier,13.0,51.0342,-115.0409,Hydro,,TransAlta (100%),Natural Resources Canada
+CAN0007646,Barrington (Watts Wind II),3.2,43.5196,-65.6624,Wind,,,Natural Resources Canada
+CAN0007647,Bassano,2.0,50.7807,-112.46,Solar,,,Natural Resources Canada
+CAN0007648,Batawa,5.0,44.1685,-77.5881,Hydro,,Innergex Inc,Natural Resources Canada
+CAN0008576,Bateston Wind Project,2.3,45.993,-59.9077,Wind,,Celtic Current LP,Natural Resources Canada
+CAN0002022,Battle River,689.0,52.4685,-112.1339,Coal,,ATCO Power,Natural Resources Canada
+CAN0002104,Bay D'espoir,604.0,47.9901,-55.7997,Hydro,,,Natural Resources Canada
+CAN0002023,Bayside Power,290.0,45.2753,-66.0263,Gas,,Emera Energy,Natural Resources Canada
+CAN0007650,Beamlight,10.0,44.2588,-79.293,Solar,,Beamlight LP,Natural Resources Canada
+CAN0002105,Bear Mountain,102.0,55.7041,-120.4264,Wind,,Bear Mountain Wind LP,Natural Resources Canada
+CAN0007652,Beare Road LFG,5.0,43.8233,-79.1639,Biomass,,E. S. Fox Ltd,Natural Resources Canada
+CAN0007654,Bearspaw,17.0,51.1012,-114.2823,Hydro,,TransAlta (100%),Natural Resources Canada
+CAN0002106,Beauharnois,1877.0,45.3141,-73.9088,Hydro,,Hydro-Québec,Natural Resources Canada
+CAN0002107,Beaumont,270.0,47.5561,-72.8362,Hydro,,Hydro-Québec,Natural Resources Canada
+CAN0007657,Becker Cogeneration,15.0,49.2105,-84.6673,Biomass,,1721027 Ontario Inc O/A Becker Cogeneration Plant,Natural Resources Canada
+CAN0002108,Beechwood,112.0,46.5428,-67.6687,Hydro,,,Natural Resources Canada
+CAN0007659,Belding,1.6,45.146,-71.8078,Hydro,,Ville de Coaticook,Natural Resources Canada
+CAN0007660,Belle-Rivière,1.0,48.4417,-71.7389,Hydro,,La Société d'Énergie Belle-Rivière Inc,Natural Resources Canada
+CAN0002026,Belledune,467.0,47.9073,-65.863,Coal,,,Natural Resources Canada
+CAN0007661,Belleterre,2.2,47.5739,-78.5576,Hydro,,Algonquin Power,Natural Resources Canada
+CAN0007662,Belleville TS Demorestville,10.0,44.0652,-77.2579,Solar,,Sune Demorestville LP,Natural Resources Canada
+CAN0007663,Belly River,3.0,49.315,-113.5743,Hydro,,TransAlta (100%),Natural Resources Canada
+CAN0007664,Belmont,20.0,42.8913,-81.1134,Solar,,Ge Energy Financial (90%) / Fiera Axium Infrastructure (10%),Natural Resources Canada
+CAN0007665,Bensfort Road LFG,1.6,44.2271,-78.2873,Biomass,,Lfg Power Corp,Natural Resources Canada
+CAN0002109,Bersimis-1,1178.0,49.2947,-69.5514,Hydro,,Hydro-Québec,Natural Resources Canada
+CAN0002110,Bersimis-2,869.0,49.1754,-69.2263,Hydro,,Hydro-Québec,Natural Resources Canada
+CAN0007669,Big Beaver Falls,5.5,49.2998,-82.5273,Hydro,,Amik-Bbf Hydrokap LP,Natural Resources Canada
+CAN0007670,Big Chute,10.0,44.8843,-79.6761,Hydro,,,Natural Resources Canada
+CAN0007671,Big Eddy,8.0,45.0206,-79.753,Hydro,,,Natural Resources Canada
+CAN0007672,Big Eddy Inco,27.6,46.3839,-81.5781,Hydro,,Vale Canada Limited/Vale Canada Limi,Natural Resources Canada
+CAN0007673,Big Falls,10.6,44.138,-64.9353,Hydro,,,Natural Resources Canada
+CAN0007674,Big Silver Creek,40.6,49.693,-121.8591,Hydro,,Innergex Inc,Natural Resources Canada
+CAN0002111,Bighorn,120.0,52.3081,-116.3245,Hydro,,TransAlta (100%),Natural Resources Canada
+CAN0007676,Bingham Chute,1.0,46.0761,-79.3968,Hydro,,,Natural Resources Canada
+CAN0007677,Bird-1-2,4.8,46.7489,-71.7104,Hydro,,Fiducie R.S.P. Hydro Inc/ Boralex Inc,Natural Resources Canada
+CAN0007678,Bishops Falls,14.4,49.0154,-55.4722,Hydro,,,Natural Resources Canada
+CAN0007679,Bisnett Line,9.0,42.2787,-81.9917,Wind,,Gengrowth,Natural Resources Canada
+CAN0007680,Black Bay 2,1.0,48.9428,-88.3141,Solar,,2397995 Ontario Inc,Natural Resources Canada
+CAN0007681,Black Pond,2.0,43.7516,-66.0204,Wind,,,Natural Resources Canada
+CAN0002112,Blackspring Ridge,298.8,50.1525,-112.8226,Wind,,EDF/Enbridge,Natural Resources Canada
+CAN0007683,Blue Trail,66.0,49.6687,-113.4522,Wind,,TransAlta,Natural Resources Canada
+CAN0007684,Bluearth Little Creek,8.5,44.2044,-76.9251,Solar,,Bluearth Renewables Inc,Natural Resources Canada
+CAN0007685,Bluefish,7.5,62.6718,-114.2615,Hydro,,,Natural Resources Canada
+CAN0007686,Bluewater,59.2,43.4846,-81.6282,Wind,,Varna Wind  LP,Natural Resources Canada
+CAN0007687,Bone Creek,19.0,52.2553,-119.1808,Hydro,,TransAlta (100%),Natural Resources Canada
+CAN0007688,Bonnington Falls,16.2,49.4582,-117.4854,Hydro,,Nelson Hydro,Natural Resources Canada
+CAN0007689,Bornish,72.9,43.1128,-81.7024,Wind,,Bornish Wind  LP,Natural Resources Canada
+CAN0007690,Boston Bar,9.0,49.8113,-121.4585,Hydro,,Boston Bar LP,Natural Resources Canada
+CAN0008577,Boulder Creek,25.3,50.635,-123.405,Hydro,,Innergex Inc (66.7%) / Ledcor Power Group (33.3%),Natural Resources Canada
+CAN0002027,Boundary Dam,672.0,49.0961,-103.0305,Coal,,Saskatchewan Power Corp,Natural Resources Canada
+CAN0007691,Bow Lake,58.3,47.2214,-84.5235,Wind,,Nodin Kitagan LP,Natural Resources Canada
+CAN0008578,Box Canyon,15.0,49.6006,-123.4267,Hydro,,,Natural Resources Canada
+CAN0007692,Box Springs,6.0,50.1004,-110.7276,Wind,,,Natural Resources Canada
+CAN0007693,Bracebridge Falls,1.9,45.0388,-79.3086,Hydro,,Bracebridge Generation Limited,Natural Resources Canada
+CAN0007694,Brampton Biomass,15.1,43.697,-79.6825,Biomass,,,Natural Resources Canada
+CAN0002028,Brandon,385.0,49.8449,-99.8902,Gas,,,Natural Resources Canada
+CAN1060098,Brandon,98.0,49.8453,-99.8918,Coal,1958.0,Manitoba Hydro,Canadian Power Plant Database
+CAN0007695,Brandywine Creek,8.0,50.0579,-123.1312,Hydro,,Run of River Power,Natural Resources Canada
+CAN0008579,Brandywine Creek Small Hydro,8.0,49.9783,-123.1417,Hydro,,Rockford Energy Corp,Natural Resources Canada
+CAN0002113,Brazeau,355.0,52.9101,-115.3754,Hydro,,TransAlta (100%),Natural Resources Canada
+CAN0007697,Breen 2,10.0,42.9854,-80.9604,Solar,,Met Fiera Solar Breen 2 LP,Natural Resources Canada
+CAN0008580,Brenton Community Wind Project,2.0,43.974,-66.0826,Wind,,Scotian Wind Fields,Natural Resources Canada
+CAN0002114,Bridge River 1,180.0,50.7299,-122.24,Hydro,,BC Hydro,Natural Resources Canada
+CAN0002115,Bridge River 2,298.0,50.7231,-122.2434,Hydro,,,Natural Resources Canada
+CAN0002029,Brighton Beach,541.3,42.2798,-83.0946,Gas,,Shell Energy North America (Canada) Inc,Natural Resources Canada
+CAN0002116,Brilliant,140.0,49.3249,-117.6207,Hydro,,Columbia Power (50%) / Columbia Basin Trust (50%),Natural Resources Canada
+CAN0002117,Brilliant Expansion 1,120.0,49.3231,-117.6198,Hydro,,Columbia Power (50%) / Columbia Basin Trust (50%),Natural Resources Canada
+CAN0002118,Brisay,469.0,54.4491,-70.5121,Hydro,,Hydro-Québec,Natural Resources Canada
+CAN0007703,Britannia LFG,5.5,43.6067,-79.6972,Biomass,,Region of Peel,Natural Resources Canada
+CAN0007704,Brockville 1,10.0,44.6329,-75.6982,Solar,,TransCanada Energy Ltd,Natural Resources Canada
+CAN0007705,Brockville 2,9.0,44.6301,-75.8033,Solar,,TransCanada Energy Ltd,Natural Resources Canada
+CAN0007706,Brockville Solar,10.0,44.5939,-75.7354,Solar,,Brockville Solar Inc,Natural Resources Canada
+CAN0007707,Brompton Biomass Cogeneration,26.0,45.4807,-71.9524,Biomass,,Kruger Energy,Natural Resources Canada
+CAN0007708,Brooklyn Energy Centre,30.0,44.0515,-64.6956,Biomass,,,Natural Resources Canada
+WKS0065459,Brooks,13.0,50.577,-111.866,Solar,,,Wiki-Solar
+CAN0007709,Brown Lake,7.2,54.0273,-129.8437,Hydro,,Innergex Inc,Natural Resources Canada
+CAN0002030,Bruce A,3220.0,44.3391,-81.5747,Nuclear,,Bruce Power LP,Natural Resources Canada
+CAN0002031,Bruce B,3390.0,44.319,-81.6027,Nuclear,,Bruce Power LP,Natural Resources Canada
+CAN0007710,Bryson,56.0,45.6611,-76.6318,Hydro,,Hydro-Québec,Natural Resources Canada
+CAN0007711,Buchans,1.8,48.822,-56.8314,Hydro,,,Natural Resources Canada
+CAN0007712,Buckingham,11.2,45.5895,-75.4223,Hydro,,Fiducie Boralex Énergie/Boralex Inc,Natural Resources Canada
+CAN0007713,Bull Creek,29.2,52.5091,-110.0831,Wind,,Bluearth Renewables,Natural Resources Canada
+CAN0007714,Burk's Falls,1.1,45.6198,-79.4118,Hydro,,Bracebridge Generation Limited,Natural Resources Canada
+CAN0007715,Burns Bog LFG,8.0,49.0977,-123.0159,Biomass,,VF Clean Energy,Natural Resources Canada
+CAN0002032,Burnside,132.0,44.7148,-63.61,Oil,,,Natural Resources Canada
+CAN0002033,Burrard,950.0,49.2988,-122.8906,Gas,,BC Hydro,Natural Resources Canada
+CAN0007716,Burritts Rapids,7.0,44.9778,-75.8198,Solar,,TransCanada Energy Ltd,Natural Resources Canada
+CAN0007653,Béarn Sawmill,7.0,47.2847,-79.3356,Biomass,,,Natural Resources Canada
+CAN0002024,Bécancour,507.0,46.3675,-72.4037,Gas,,TransCanada Energy Ltd,Natural Resources Canada
+CAN0002025,Bécancour (HQ),411.0,46.3919,-72.3523,Gas,,Hydro-Québec,Natural Resources Canada
+CAN0007668,Bésy,18.4,48.4403,-71.2467,Hydro,,Hydro Saguenay,Natural Resources Canada
+CAN0008581,Cache Creek LFG,5.0,50.7873,-121.3197,Biomass,,,Natural Resources Canada
+CAN0007717,Calabogie,5.0,45.3047,-76.7087,Hydro,,,Natural Resources Canada
+CAN0002034,Calgary Energy Centre,300.0,51.1805,-113.9373,Gas,,Calpine,Natural Resources Canada
+CAN0007718,Calm Lake,8.8,48.7937,-92.154,Hydro,,H2O Power LP,Natural Resources Canada
+CAN0007719,Calstock,38.0,49.7456,-84.0736,Biomass,,Atlantic Power Corp,Natural Resources Canada
+CAN0007720,Cameron Falls - BRP,4.2,46.2822,-82.1493,Hydro,,,Natural Resources Canada
+CAN0007721,Cameron Falls - OPG,92.0,49.1536,-88.3457,Hydro,,,Natural Resources Canada
+CAN0007722,Camp Three Rapids,5.5,49.2964,-82.5373,Hydro,,Amik-Ctr Hydrokap LP,Natural Resources Canada
+CAN0007723,Campbellford,2.0,44.3351,-77.7725,Hydro,,Campbellford-Seymour Electric Generation Inc,Natural Resources Canada
+CAN0008582,Canoe Creek Hydro,6.0,49.1769,-125.3956,Hydro,,,Natural Resources Canada
+CAN1060135,Cap-aux-Meules,66.0,47.3745,-61.8858,Oil,1952.0,Hydro Quebec,Canadian Power Plant Database
+CAN0007724,Cape Broyle,6.3,47.0959,-52.9372,Hydro,,,Natural Resources Canada
+CAN0007725,Cape Scott,99.0,50.789,-128.0033,Wind,,Gdf Suez Canada (40%) / Mitsui (30%) / Fiera Axium (30%),Natural Resources Canada
+CAN0002035,Cardinal,156.3,44.7846,-75.3779,Gas,,Cardinal Power LP,Natural Resources Canada
+CAN0007726,Cariboo Pulp & Paper  Company,61.0,52.997,-122.4853,Biomass,,Daishowa-Marubeni International Ltd (Dmi) & West Fraser Mills Ltd (50/50),Natural Resources Canada
+CAN0007727,Caribou,99.0,47.5071,-66.4135,Wind,,,Natural Resources Canada
+CAN0007728,Caribou Falls,91.0,50.2625,-94.9744,Hydro,,,Natural Resources Canada
+CAN0002119,Carillon,753.0,45.5687,-74.383,Hydro,,Hydro-Québec,Natural Resources Canada
+CAN0002120,Carleton,109.5,48.2065,-66.139,Wind,,Innergex Inc (38%),Natural Resources Canada
+CAN0007731,Carmichael,20.0,49.1458,-82.0308,Hydro,,,Natural Resources Canada
+CAN1060145,Carseland,80.0,50.8466,-113.5816,Gas,2001.0,TransCanada,Canadian Power Plant Database
+CAN0007732,Cascade,36.0,51.2002,-115.5021,Hydro,,TransAlta (100%),Natural Resources Canada
+CAN0007733,Cascade Street,1.2,45.3504,-80.0267,Hydro,,Bracebridge Generation Limited,Natural Resources Canada
+CAN0008583,Castle Creek,6.0,53.1092,-120.1942,Hydro,,Castle Mountain Hydro Ltd,Natural Resources Canada
+CAN0007734,Castle River,39.5,49.516,-114.0276,Wind,,Vision Quest (TransAlta),Natural Resources Canada
+CAN0007735,Castle Rock Ridge,75.9,49.5561,-113.963,Wind,,Enel,Natural Resources Canada
+CAN0002121,Cat Arm,127.0,50.0258,-56.765,Hydro,,,Natural Resources Canada
+CAN0007737,Catalyst Paper Crofton,38.0,48.8757,-123.65,Biomass,,,Natural Resources Canada
+CAN0007738,Catalyst Paper Port Alberni,17.0,49.2474,-124.8112,Biomass,,,Natural Resources Canada
+CAN0002036,Cavalier,120.0,51.0056,-113.1716,Gas,,Encana,Natural Resources Canada
+CAN0002122,Cedar Point,100.0,43.0828,-82.0528,Wind,,Cedar Point II LP,Natural Resources Canada
+CAN0007740,Cedar Road LFG,1.4,49.1184,-123.8964,Biomass,,Cedar Road LFG Inc,Natural Resources Canada
+CAN0002123,Centennial,149.4,50.1621,-107.4579,Wind,,Saskatchewan Power Corp,Natural Resources Canada
+CAN0008585,Centrale Hydro-Canyon Saint-Joachim,23.2,47.072,-70.877,Hydro,,Société Hydro-Canyon Saint-Joachim Inc,Natural Resources Canada
+CAN0008586,Centrale Lefrançois,7.9,46.4235,-72.9684,Hydro,,Innergex Inc,Natural Resources Canada
+CAN0008587,Centrale Val-Jalbert,16.0,48.4334,-72.1672,Hydro,,Énergie Hydroélectrique Ouiatchouan (Société en Commandite),Natural Resources Canada
+CAN0008584,Centrale de La Courbe du Sault,25.0,50.3135,-64.9098,Hydro,,Société D’énergie Rivière Sheldrake Inc,Natural Resources Canada
+CAN0007742,Chapais,28.0,49.7709,-74.8568,Biomass,,,Natural Resources Canada
+CAN0007743,Chapleau Cogeneration,7.2,47.8431,-83.428,Biomass,,Tembec Inc,Natural Resources Canada
+CAN0007744,Charlot River,10.0,59.6123,-109.1129,Hydro,,Saskatchewan Power Corp,Natural Resources Canada
+CAN0002037,Charlottetown Thermal Generating Station,109.0,46.2383,-63.1182,Oil,,Maritime Electric Co Ltd,Natural Resources Canada
+CAN1060162,Charlottetown Thermal Generating Station,62.0,46.2384,-63.1181,Oil,1955.0,Maritime Electric,Canadian Power Plant Database
+CAN1060163,Charlottetown Thermal Generating Station,50.0,46.2384,-63.1181,Oil,2005.0,Maritime Electric,Canadian Power Plant Database
+CAN0002124,Chatham,101.2,42.2065,-82.3226,Wind,,Kruger Energy Chatham LP,Natural Resources Canada
+CAN0002261,Chats Fall / Chute-des-Chats,192.0,45.4752,-76.2382,Hydro,,Ontario Power Generation/Hydro-Electric Power Commission of Ontario,Natural Resources Canada
+CAN0007746,Chaudiere 2,8.4,45.4191,-75.7139,Hydro,,Energy Ottawa Inc,Natural Resources Canada
+CAN0007747,Chaudiere 4,9.3,45.4204,-75.7149,Hydro,,Energy Ottawa Inc,Natural Resources Canada
+CAN0002125,Cheakamus,158.0,49.9337,-123.291,Hydro,,BC Hydro,Natural Resources Canada
+CAN0007749,Chebucto Pockwock,10.0,44.7707,-63.8379,Wind,,,Natural Resources Canada
+CAN0002126,Chelsea,152.0,45.5125,-75.7775,Hydro,,Hydro-Québec,Natural Resources Canada
+CAN0002127,Chenaux,144.0,45.5838,-76.6738,Hydro,,Ontario Power Generation (OPG),Natural Resources Canada
+CAN0008589,Chetwynd,12.0,55.7235,-121.565,Biomass,,,Natural Resources Canada
+CAN0007752,Chiblow Lake,1.7,46.3126,-83.0655,Hydro,,1149377 Ontario Limited,Natural Resources Canada
+CAN0007753,Chicoutimi,8.2,48.4262,-71.0763,Hydro,,Hydro Saguenay,Natural Resources Canada
+CAN0007754,Chin Chute,30.0,49.6933,-112.3292,Wind,,Suncor / EHN/ Enbridge,Natural Resources Canada
+CAN0007755,Chin Hydro Plant,11.0,49.6756,-112.3446,Hydro,,,Natural Resources Canada
+CAN0007756,China Creek,6.5,49.1856,-124.7395,Hydro,,Synex (12.5%) / Hupacasath & Ucluelet  First Nations & the City of Port Alberni (87.5%),Natural Resources Canada
+CAN0002038,Christina Lake,179.0,55.665,-110.7185,Gas,,MEG Energy,Natural Resources Canada
+CAN0002128,Churchill Falls,5428.0,53.5294,-63.9651,Hydro,,,Natural Resources Canada
+CAN0008590,Chute,3.0,47.84,-80.4486,Hydro,,Hydro-Electric Power Commission of Ontario,Natural Resources Canada
+CAN0007758,Chute Garneau,5.3,48.3864,-71.1289,Hydro,,Ville de Saguenay /Hydro-Jonquière,Natural Resources Canada
+CAN0007761,Chute-Allard,62.0,47.8929,-73.7183,Hydro,,Hydro-Québec,Natural Resources Canada
+CAN0007763,Chute-Bell,10.0,45.774,-74.6844,Hydro,,Hydro-Québec,Natural Resources Canada
+CAN0007764,Chute-Blanche,1.4,48.8425,-72.0661,Hydro,,Hydro-Morin (Société en Nom Collectif),Natural Resources Canada
+CAN0007765,Chute-Burroughs,1.6,45.1463,-72.0186,Hydro,,Hydro-Québec,Natural Resources Canada
+CAN0007768,Chute-Hemmings,29.0,45.8632,-72.4502,Hydro,,Hydro-Québec,Natural Resources Canada
+CAN0007762,Chute-aux-Galets,13.6,48.6511,-71.2034,Hydro,,Hydro Saguenay,Natural Resources Canada
+CAN0002131,Chute-des-Passes,854.4,49.8374,-71.1665,Hydro,,Rio Tinto Alcan,Natural Resources Canada
+CAN0002132,Chute-du-Diable,305.8,48.7807,-71.6974,Hydro,,Rio Tinto Alcan,Natural Resources Canada
+CAN0002129,Chute-à-Caron,224.0,48.4506,-71.2536,Hydro,,Rio Tinto (Rt),Natural Resources Canada
+CAN0002130,Chute-à-la-Savane,258.0,48.7536,-71.8395,Hydro,,Rio Tinto Alcan,Natural Resources Canada
+CAN0007769,Chutes à Thompson,9.9,49.3083,-67.86,Hydro,,Société d’énergie Rivière Franquelin Inc,Natural Resources Canada
+CAN0007771,Chutes-de-la-Chaudière,25.0,46.7154,-71.285,Hydro,,Innergex Inc,Natural Resources Canada
+CAN0007770,Chutes-à-Gorry,10.8,46.7904,-72.0082,Hydro,,Société d'Énergie Columbus Inc,Natural Resources Canada
+CAN0007772,Citylights,10.0,45.1563,-75.2245,Solar,,Axium City Light LP,Natural Resources Canada
+CAN0007773,Clayton Falls,2.0,52.3701,-126.8139,Hydro,,BC Hydro,Natural Resources Canada
+CAN0007774,Clear Creek,9.9,42.5879,-80.5722,Wind,,,Natural Resources Canada
+CAN0007775,Clergue,52.0,46.5148,-84.3472,Hydro,,Brookfield Renewable Power Inc,Natural Resources Canada
+CAN0002039,Clover Bar,250.0,53.5871,-113.3652,Gas,,Capital Power,Natural Resources Canada
+CAN0007776,Clover Bar LFG,4.8,53.5956,-113.3322,Biomass,,Capital Power,Natural Resources Canada
+CAN0007777,Clowhom,33.0,49.7109,-123.5321,Hydro,,BC Hydro,Natural Resources Canada
+CAN0002040,Coleson Cove,972.0,45.1538,-66.2023,Oil,,,Natural Resources Canada
+CAN0002133,Comber East / West,165.6,42.2195,-82.5614,Wind,,2016 Comber Wind LP,Natural Resources Canada
+CAN0007779,Conestogo,22.9,43.7943,-80.5888,Wind,,Conestogo Wind  LP,Natural Resources Canada
+CAN0007780,Coniston,4.0,46.4746,-80.8183,Hydro,,,Natural Resources Canada
+CAN0007781,Corner Brook Cogeneration,15.3,48.9561,-57.9496,Biomass,,Kruger,Natural Resources Canada
+CAN0007782,Cornwall,10.0,45.1024,-74.6899,Solar,,Cornwall Solar Inc,Natural Resources Canada
+CAN0007783,Corra Linn,51.0,49.4689,-117.4686,Hydro,,,Natural Resources Canada
+CAN0002041,Cory Cogeneration,260.0,52.0927,-106.8533,Gas,,Saskpower (50%) / ATCO Power (50%),Natural Resources Canada
+CAN0002134,Coteau Creek,186.0,51.2748,-106.8736,Hydro,,Saskatchewan Power Corp,Natural Resources Canada
+CAN0007786,Cowie Falls,7.4,44.0744,-64.7707,Hydro,,,Natural Resources Canada
+CAN0007787,Cowley North,19.5,49.5619,-114.1075,Wind,,Canadian Hydro Developers,Natural Resources Canada
+CAN0007788,Creignishrear,2.0,45.7262,-61.4167,Wind,,,Natural Resources Canada
+CAN0002042,Crossfield Energy Centre,120.0,51.3972,-114.0147,Gas,,Enmax Energy Corp,Natural Resources Canada
+CAN0007789,Crowe Bay,2.0,44.3353,-77.7723,Hydro,,,Natural Resources Canada
+CAN0008592,Crowsnest Pass ERG,11.0,49.6474,-114.7151,Other,,,Natural Resources Canada
+CAN0007790,Cruickshank,8.3,44.2478,-81.5714,Wind,,,Natural Resources Canada
+CAN0007791,Crystal Falls,8.0,46.4501,-79.8629,Hydro,,,Natural Resources Canada
+CAN0008593,Culliton Creek,15.0,49.8772,-123.1599,Hydro,,,Natural Resources Canada
+CAN0007792,Cultus,9.9,42.6009,-80.6048,Wind,,,Natural Resources Canada
+CAN0007793,Cypress,10.5,50.0195,-108.4936,Wind,,Saskatchewan Power Corp,Natural Resources Canada
+CAN0007794,Cypress Creek,2.8,49.8427,-126.1277,Hydro,,Synex,Natural Resources Canada
+CAN0007785,Côte-Sainte-Catherine-1-2-3,11.1,45.4066,-73.5691,Hydro,,Algonquin Power,Natural Resources Canada
+CAN0008591,Côte-de-Beaupré,23.5,47.3006,-70.881,Wind,,Boralex,Natural Resources Canada
+CAN0007795,Dalhousie Mountain,51.0,45.5757,-62.9755,Wind,,,Natural Resources Canada
+CAN0007796,Daniel-Larocque (Mont-Laurier),2.7,46.5547,-75.4999,Hydro,,Algonquin Power,Natural Resources Canada
+CAN0002043,Darlington,3740.0,43.8697,-78.7239,Nuclear,,,Natural Resources Canada
+CAN0008594,Dasque,12.0,54.3835,-128.9149,Hydro,,,Natural Resources Canada
+CAN0007797,Dave Rampel Solar Park,10.0,48.7152,-94.2518,Solar,,Rainy River First Nations Solar 3 LP,Natural Resources Canada
+CAN0007798,David Brown Solar Park,10.0,45.0085,-74.9996,Solar,,Saturn Solar 2 LP,Natural Resources Canada
+CAN0002135,De l'Érable,100.0,46.1059,-71.6839,Wind,,Elecnor,Natural Resources Canada
+CAN0007800,Decew Falls 1,23.0,43.1183,-79.2643,Hydro,,,Natural Resources Canada
+CAN0002136,Decew Falls 2,144.0,43.1189,-79.2612,Hydro,,,Natural Resources Canada
+CAN0007802,Deep Brook,9.1,44.0805,-64.7909,Hydro,,,Natural Resources Canada
+CAN0002137,Deer Lake,129.0,49.1699,-57.4363,Hydro,,,Natural Resources Canada
+CAN0002138,Des Moulins I,135.7,46.1637,-71.3546,Wind,,Invenergy Wind Canada,Natural Resources Canada
+CAN0007805,Des Moulins II,21.2,48.0433,-67.5268,Wind,,Invenergy Wind Canada,Natural Resources Canada
+CAN0002139,Des-Joachims,429.0,46.1827,-77.697,Hydro,,Ontario Power Generation (OPG),Natural Resources Canada
+CAN0002044,Destec - Kingston,140.0,44.2098,-76.7247,Gas,,Northland Power,Natural Resources Canada
+CAN0007807,Diavik Mine,9.2,64.4912,-110.3423,Wind,,Diavik Diamond Mines Inc,Natural Resources Canada
+CAN0007808,Dickie Brook,2.6,45.3492,-61.5032,Hydro,,,Natural Resources Canada
+CAN0007809,Dickson Dam,15.0,52.0527,-114.2229,Hydro,,Algonquin Power,Natural Resources Canada
+CAN0007810,Digby,30.8,44.5914,-65.9444,Wind,,,Natural Resources Canada
+CAN0007811,Discoverylight,10.0,44.4384,-79.0681,Solar,,Axium Discovery Light LP,Natural Resources Canada
+CAN0007812,District Heating,1.2,46.2516,-63.1079,Biomass,,Fort Chicago Energy Partners of Calgary,Natural Resources Canada
+CAN0002140,Dokie,144.0,55.8118,-122.2474,Wind,,Alterra Power Corp (51%) / GE Energy Financial Services (,Natural Resources Canada
+CAN0007814,Dolbeau,26.5,48.8794,-72.2174,Biomass,,,Natural Resources Canada
+CAN0007815,Domtar - Windsor,30.0,45.5658,-71.981,Biomass,,Domtar Inc,Natural Resources Canada
+CAN0007816,Domtar Espanola Mill,18.0,46.2697,-81.7706,Hydro,,Domtar Inc,Natural Resources Canada
+CAN0007817,Domtar Pulp Mill (Kamloops),76.0,50.6894,-120.4053,Biomass,,Domtar Inc,Natural Resources Canada
+CAN0007818,Donnacona,4.8,46.6785,-71.7458,Hydro,,Algonquin Power,Natural Resources Canada
+CAN0008595,Doran Taylor,6.0,49.2964,-125.2755,Hydro,,,Natural Resources Canada
+CAN0007819,Douglas Creek,27.0,49.7676,-122.151,Hydro,,Innergex Inc (50%) / Harrison Hydro Project (50%),Natural Resources Canada
+CAN0007820,Drummondville,16.0,45.8869,-72.4841,Hydro,,Hydro-Québec,Natural Resources Canada
+CAN0007822,Dufferin,40.6,45.5844,-75.4178,Hydro,,Énergie La Lièvre  Sec/Énergie Brookfield Inc,Natural Resources Canada
+CAN0007821,Dufferin,91.4,44.2134,-80.2673,Wind,,Dufferin Wind Power Inc,Natural Resources Canada
+CAN0007823,Dunford,45.0,47.9069,-84.7156,Hydro,,Brookfield Renewable Power Inc,Natural Resources Canada
+CAN1060255,Dupont Maitland,50.0,44.6334,-75.616,Gas,1992.0,TransAlta,Canadian Power Plant Database
+CAN0002141,E B Campbell,289.0,53.689,-103.3475,Hydro,,Saskatchewan Power Corp,Natural Resources Canada
+CAN0007825,Eagle River,1.8,49.7911,-93.1969,Hydro,,,Natural Resources Canada
+CAN0007826,Earthlight,10.0,44.2875,-79.2834,Solar,,Concord Earthlight Partnership,Natural Resources Canada
+CAN0007827,East Angus,2.3,45.4827,-71.6623,Hydro,,Forces Motrices Saint-François Inc/Boralex Inc,Natural Resources Canada
+CAN0007828,East Durham,22.4,44.1972,-80.7005,Wind,,East Durham Wind  LP,Natural Resources Canada
+CAN0007830,East LFG,1.0,43.1216,-79.1739,Biomass,,St. Catharines Hydro Generation Inc / Glenridge Gas Utilization Inc,Natural Resources Canada
+CAN0007829,East Lake St. Clair,99.0,42.4776,-82.3603,Wind,,East Lake St. Clair Wind LP,Natural Resources Canada
+CAN0002142,East Toba,123.0,50.6751,-123.9603,Hydro,,,Natural Resources Canada
+CAN0007832,East Twin,2.0,53.4581,-120.3834,Hydro,,,Natural Resources Canada
+CAN1060264,East Windsor Cogeneration,92.0,42.3258,-83.0005,Gas,2009.0,SaskPower,Canadian Power Plant Database
+CAN0007833,Eastern Kings,30.0,46.4525,-62.0682,Wind,,PEI Energy Corp,Natural Resources Canada
+CAN0002143,Eastmain-1,480.0,52.1818,-76.051,Hydro,,Hydro-Québec,Natural Resources Canada
+CAN0002144,Eastmain-1-A,768.0,52.1793,-76.0418,Hydro,,Hydro-Québec,Natural Resources Canada
+CAN0007836,Eastview LFG,1.7,43.5741,-80.2323,Biomass,,Envida Community Energy Inc,Natural Resources Canada
+CAN0007837,Eddy Ottawa (Powerhouses 2 & 3),9.2,45.4208,-75.7185,Hydro,,Energy Ottawa Inc,Natural Resources Canada
+CAN0007838,Edmundston,9.0,47.3626,-68.3236,Hydro,,,Natural Resources Canada
+CAN0007839,Effisolar Beckwith,10.0,45.0564,-76.0795,Solar,,Beckwith Solar Inc,Natural Resources Canada
+CAN0007840,Eldorado Reservoir,1.1,50.019,-119.3589,Hydro,,District of Lake Country,Natural Resources Canada
+CAN0007841,Elko,12.0,49.2901,-115.1046,Hydro,,BC Hydro,Natural Resources Canada
+CAN0008596,Ellershouse Wind Farm,16.4,44.9316,-64.0276,Wind,,Alternative Resource Energy Authority,Natural Resources Canada
+CAN0007842,Elliot Chute,2.0,46.0602,-79.3894,Hydro,,,Natural Resources Canada
+CAN0007843,Elmsley East / West,24.0,44.8406,-76.0866,Solar,,EDF Energies Nouvelles,Natural Resources Canada
+CAN0008597,Elora,1.0,43.6809,-80.4329,Hydro,,2405489 Ontario Inc,Natural Resources Canada
+CAN0007844,Enbridge Tilbury,5.0,42.2741,-82.4267,Solar,,Enbridge Inc,Natural Resources Canada
+CAN0007845,Erie Ridge,9.4,42.4454,-81.8504,Solar,,Sunedison / Skypower Ltd,Natural Resources Canada
+CAN0007846,Erie Shores,99.0,42.6476,-80.7695,Wind,,Erie Shores Wind Farm LP,Natural Resources Canada
+CAN0007847,Erieau,99.0,42.3011,-82.0047,Wind,,Erieau Wind LP,Natural Resources Canada
+CAN1060281,Ermine,92.0,51.873,-109.0399,Gas,2009.0,Macquarie Power & Infrastructure Income Fund,Canadian Power Plant Database
+CAN0007848,Ernestown,10.0,44.228,-76.7195,Wind,,Ernestown Windpark LP,Natural Resources Canada
+CAN0007849,Espanola Mill,25.0,46.2691,-81.7672,Biomass,,,Natural Resources Canada
+CAN0007850,Eugenia,6.0,44.3398,-80.537,Hydro,,,Natural Resources Canada
+CAN0007851,Fairmont,4.6,45.6824,-61.9913,Wind,,,Natural Resources Canada
+CAN0007852,Falls River,7.0,53.9835,-129.7342,Hydro,,BC Hydro,Natural Resources Canada
+CAN0007853,Fenelon Falls,2.6,44.5356,-78.7373,Hydro,,,Natural Resources Canada
+CAN0007854,Fermeuse,27.0,46.9699,-52.97,Wind,,,Natural Resources Canada
+CAN0007855,Ferndale,5.1,44.9465,-81.2632,Wind,,,Natural Resources Canada
+CAN0007856,Fire Creek,23.0,49.7834,-122.2347,Hydro,,Innergex Inc (50%) / Harrison Hydro Project (50%),Natural Resources Canada
+CAN0002045,Firebag,104.0,57.2356,-110.85,Gas,,Suncor,Natural Resources Canada
+CAN0002046,Firebag 3,170.0,57.2417,-110.8547,Gas,,Suncor,Natural Resources Canada
+CAN0002047,Firebag 4,160.0,57.2417,-110.8569,Gas,,Suncor,Natural Resources Canada
+CAN0007857,First Light I,9.1,44.2904,-76.9257,Solar,,Sunedison / Skypower Ltd,Natural Resources Canada
+CAN0007858,First Light II,10.4,44.2984,-76.9425,Solar,,Sunedison / Skypower Ltd,Natural Resources Canada
+CAN0007859,Fitzpatrick Mountain,1.6,45.6264,-62.9013,Wind,,,Natural Resources Canada
+CAN0007860,Fitzsimmons Creek,7.5,50.1056,-122.9448,Hydro,,Innergex Inc (66.7%) / Ledcor Power Group (33.3%),Natural Resources Canada
+CAN0002145,Forrest Kerr,195.0,56.7172,-130.6866,Hydro,,AltaGas,Natural Resources Canada
+CAN0007862,Fort Frances,9.4,48.6091,-93.4023,Hydro,,H2O Power LP,Natural Resources Canada
+CAN0002048,Fort Saskatchewan (TransAlta),118.0,53.736,-113.1734,Gas,,TransAlta (30%) / Strongwater Energy Ltd (70%),Natural Resources Canada
+CAN0007863,Fort William,10.9,48.3603,-89.2536,Solar,,Not Reported,Natural Resources Canada
+CAN1060303,Foster Creek,80.0,55.0674,-110.536,Gas,2003.0,AbitibiBowater,Canadian Power Plant Database
+CAN0007864,Fotolight,10.0,44.0199,-77.094,Solar,,Axium Foto Light LP,Natural Resources Canada
+CAN0007865,Fourth Lake,2.2,44.3696,-65.7193,Hydro,,,Natural Resources Canada
+CAN0007866,Frampton,24.0,46.4445,-70.737,Wind,,,Natural Resources Canada
+CAN0007867,Frankford,3.0,44.1865,-77.5945,Hydro,,,Natural Resources Canada
+CAN0007868,Fraser,2.9,47.841,-69.5317,Hydro,,Hydro-Fraser Inc,Natural Resources Canada
+CAN0008598,Fraser Lake Biomass,12.0,54.0673,-124.7484,Biomass,,West Fraser Mills Ltd,Natural Resources Canada
+CAN0007869,Fraser Richmond Soil & Fiber,1.0,49.1597,-123.0378,Biomass,,Harvest,Natural Resources Canada
+CAN0007870,Frogmore,9.9,42.6069,-80.6598,Wind,,,Natural Resources Canada
+CAN0007871,Front Line,9.0,42.3964,-81.8657,Wind,,Gengrowth,Natural Resources Canada
+CAN0007872,Frontenac,2.2,45.4023,-71.8984,Hydro,,Ville de Sherbrooke /Hydro Sherbrooke,Natural Resources Canada
+CAN0007873,Furry Creek,10.0,49.5793,-123.202,Hydro,,Furry Creek Power Ltd,Natural Resources Canada
+CAN0002146,G.M. Shrum,2730.0,56.0148,-122.1957,Hydro,,BC Hydro,Natural Resources Canada
+CAN1060359,GTAA Cogeneration,90.0,43.6911,-79.6105,Gas,2006.0,Cartier Énergie,Canadian Power Plant Database
+CAN0007875,Gaetz Brook,2.3,44.7588,-63.2043,Wind,,,Natural Resources Canada
+CAN0007876,Galetta,1.6,45.4262,-76.2537,Hydro,,Canadian Hydro Developers  Inc,Natural Resources Canada
+CAN0007877,Ganaraska,17.6,44.0197,-78.581,Wind,,Ganaraska Wind Development Joint Venture,Natural Resources Canada
+CAN0008599,Gardiner Mines (Cape Breton University),5.4,46.195,-60.0839,Wind,,Gardner Mines Wind Farm LP,Natural Resources Canada
+CAN0007878,Gartshore,23.0,47.2402,-84.5835,Hydro,,Brookfield Renewable Power Inc,Natural Resources Canada
+CAN0007879,Gatineau (Bowater),15.0,45.4792,-75.6552,Biomass,,,Natural Resources Canada
+CAN0007880,Geisler Falls / Corkery Falls,2.9,45.9879,-79.419,Hydro,,Carlisle LP No. 1,Natural Resources Canada
+CAN0002049,Genesee,1376.0,53.3446,-114.3049,Coal,,Capital Power & TransAlta,Natural Resources Canada
+CAN0007881,Gesner,10.0,42.5193,-81.7571,Wind,,,Natural Resources Canada
+CAN0007882,Ghost,51.0,51.2188,-114.7078,Hydro,,TransAlta (100%),Natural Resources Canada
+CAN0007883,Ghost Pine,81.6,51.8723,-113.3181,Wind,,Finavera,Natural Resources Canada
+CAN0007884,Gisborne,3.5,46.5677,-60.5252,Hydro,,,Natural Resources Canada
+CAN0007885,Gitchi Animki Bezhig,8.9,48.6439,-85.7659,Hydro,,Pic Mobert Hydro Inc,Natural Resources Canada
+CAN0007886,Gitchi Animki Niizh,10.0,48.5977,-85.8779,Hydro,,Pic Mobert Hydro Inc,Natural Resources Canada
+CAN0007887,Gitzler Falls,1.2,46.0022,-79.4247,Hydro,,Carlisle Ltd Partnership,Natural Resources Canada
+CAN0007888,Glace Bay / Donkin,1.6,46.218,-59.981,Wind,,,Natural Resources Canada
+CAN0007889,Glen Dhu,62.1,45.6467,-62.2216,Wind,,,Natural Resources Canada
+CAN0007890,Glen Miller,8.0,44.1525,-77.5819,Hydro,,Glen Miller Power LP,Natural Resources Canada
+CAN0007891,Glenarm,10.0,44.4633,-78.9662,Solar,,Csi Glenarm LP,Natural Resources Canada
+CAN0007892,Glenford,5.0,46.8385,-71.9405,Hydro,,Algonquin Power,Natural Resources Canada
+CAN0007893,Gold River,90.0,49.6827,-126.1253,Biomass,,Green Island Energy,Natural Resources Canada
+CAN0007894,Golden,8.0,51.3047,-116.9761,Biomass,,Louisiana-Pacific Canada Engineered Wood Products Ltd,Natural Resources Canada
+CAN0007895,Goldlight,10.0,44.2878,-79.2936,Solar,,Goldlight LP,Natural Resources Canada
+CAN0007896,Goodlight,10.0,44.5117,-78.992,Solar,,Goodlight LP,Natural Resources Canada
+CAN0002050,Goreway,875.0,43.7465,-79.6799,Gas,,Goreway Station Partnership,Natural Resources Canada
+CAN0007897,Gosfield,50.6,42.1269,-82.6835,Wind,,Gosfield Wind LP,Natural Resources Canada
+CAN0002147,Goshen,102.4,43.2986,-81.6144,Wind,,Goshen Wind  LP,Natural Resources Canada
+CAN0007899,Goulais,25.3,46.6615,-84.3587,Wind,,Chi-Wiikwedong LP,Natural Resources Canada
+CAN0007900,Gracey,10.0,42.2718,-82.4882,Wind,,,Natural Resources Canada
+CAN0007901,Grand Bend,99.3,43.3937,-81.6578,Wind,,Grand Bend Wind LP,Natural Resources Canada
+CAN0007902,Grand Falls,75.0,48.9254,-55.6678,Hydro,,,Natural Resources Canada
+CAN0007903,Grand Falls / Grand Sault,66.0,47.0429,-67.7369,Hydro,,,Natural Resources Canada
+CAN0002148,Grand Rapids,479.0,53.16,-99.2863,Hydro,,,Natural Resources Canada
+CAN0002149,Grand Renewable Energy Park,149.0,42.8814,-79.7879,Wind,,Grand Renewable Wind LP,Natural Resources Canada
+CAN0002150,Grand Renewable Energy Park,100.0,42.8883,-79.819,Solar,,Grand Renewable Solar LP,Natural Resources Canada
+CAN0007907,Grand Valley I / II,19.8,44.0078,-80.3556,Wind,,Grand Valley 1 LP,Natural Resources Canada
+CAN0007908,Grand Valley III,40.1,43.9294,-80.3437,Wind,,Grand Valley 2 LP,Natural Resources Canada
+CAN0007911,Grand-Mère,67.0,46.6152,-72.6793,Hydro,,Hydro-Québec,Natural Resources Canada
+CAN0007909,Grande Prairie EcoPower,25.0,55.1602,-118.8184,Biomass,,Canadian Gas and Electric,Natural Resources Canada
+CAN0007910,Grande-Dame,1.7,45.2727,-72.1054,Hydro,,Ville de Magog,Natural Resources Canada
+CAN1060348,Grandview,90.0,45.2727,-66.0677,Gas,2004.0,Hydro Quebec,Canadian Power Plant Database
+CAN0007912,Granite Canal,41.0,48.1966,-56.8152,Hydro,,,Natural Resources Canada
+CAN0002151,Great Falls,129.0,50.4616,-96.0095,Hydro,,,Natural Resources Canada
+CAN0007914,Green Acres,2.0,50.9061,-112.708,Solar,,Private,Natural Resources Canada
+CAN0007915,Green River,3.0,47.4684,-68.2354,Hydro,,Edmunston Energy,Natural Resources Canada
+CAN0007916,Greenfield,3.2,45.3467,-63.139,Wind,,,Natural Resources Canada
+CAN0002051,Greenfield Energy Centre,1005.0,42.7701,-82.4528,Gas,,Greenfield Energy Centre LP,Natural Resources Canada
+CAN0007917,Greenwich,98.9,48.7606,-88.7667,Wind,,Greenwich Wind Farm  LP,Natural Resources Canada
+CAN0007918,Grey Highlands,18.5,44.3085,-80.3138,Wind,,Grey Highlands Clean Energy Development LP,Natural Resources Canada
+CAN0008600,Grey Highlands Zero Emission People (Zep),10.0,44.314,-80.289,Wind,,Capstone Infrastructure Corp 50%,Natural Resources Canada
+CAN0007919,Grimsby Bioreactor,1.0,43.1474,-79.5389,Biomass,,Grimsby Energy Inc,Natural Resources Canada
+CAN0002262,Gros Morne I,100.5,49.181,-65.4615,Wind,,Innergex Inc (38%) / TransCanada (42%),Natural Resources Canada
+CAN0002152,Gros-Morne II,111.0,49.2202,-65.4207,Wind,,Innergex Inc (38%) / TransCanada (42%),Natural Resources Canada
+CAN0007921,Gulch,7.0,44.5672,-65.6346,Hydro,,Nova Scotia Power Inc,Natural Resources Canada
+CAN0007922,Gunn's Hill,18.0,43.0858,-80.7142,Wind,,Gunn's Hill LP,Natural Resources Canada
+CAN0002052,H R Milner,150.0,54.0071,-119.1032,Coal,,Maxim Power Corp,Natural Resources Canada
+CAN0007923,HAF Energy,9.0,43.122,-79.7108,Wind,,Vineland Power Inc,Natural Resources Canada
+CAN0007956,HPG Site A,2.0,43.9294,-78.5454,Solar,,Potentia Solar 14 LP,Natural Resources Canada
+CAN0008602,Haa-ak-suuk Creek Hydro,6.0,49.2479,-125.3837,Hydro,,Haa-ak-suuk Creek Hydro LP,Natural Resources Canada
+CAN0007924,Hagues Reach,4.0,44.2752,-77.7954,Hydro,,,Natural Resources Canada
+CAN0002153,Halkirk,149.4,52.2609,-112.0271,Wind,,Capital Power,Natural Resources Canada
+CAN0002053,Halton Hills,712.0,43.5613,-79.8447,Gas,,TransCanada Corp,Natural Resources Canada
+CAN0007926,Hamilton (Digester Gas) Cogenertion,1.6,43.2534,-79.77,Biomass,,Hamilton Renewable Power Inc,Natural Resources Canada
+CAN0007927,Hanna Chute,1.0,45.0008,-79.2977,Hydro,,,Natural Resources Canada
+CAN0008603,Hardwood Lands Community Wind Project,6.0,45.0892,-63.5178,Wind,,WEB Windenergie AG,Natural Resources Canada
+CAN1060368,Hardwoods,54.0,47.4166,-53.5314,Gas,1977.0,TransCanada,Canadian Power Plant Database
+CAN0007928,Harmac,55.0,49.1385,-123.8571,Biomass,,Nanaimo Forest Products Ltd,Natural Resources Canada
+CAN0002154,Harmon,220.0,50.1112,-82.2081,Hydro,,Ontario Power Generation,Natural Resources Canada
+CAN0007930,Harris,12.0,47.9572,-84.8303,Hydro,,Brookfield Renewable Power Inc,Natural Resources Canada
+CAN0007931,Harrow,39.6,42.0323,-82.9618,Wind,,,Natural Resources Canada
+CAN0007932,Hart-Jaune,51.0,51.7849,-67.9119,Hydro,,Hydro-Québec,Natural Resources Canada
+CAN0007933,Hartland LFG,2.0,48.5392,-123.4624,Biomass,,Capital Regional District,Natural Resources Canada
+CAN0008604,Hauer Creek,2.0,52.9342,-119.4562,Hydro,,,Natural Resources Canada
+CAN0007934,Haute-Yamaska-Roland Thibault Cogeneration,3.0,45.4634,-72.7809,Biomass,,,Natural Resources Canada
+CAN0007935,Healey Falls,18.0,44.373,-77.7787,Hydro,,Ontario Power Generation Inc,Natural Resources Canada
+CAN0007936,Hearts Content,3.5,47.8628,-53.3758,Hydro,,,Natural Resources Canada
+CAN0007937,Hells Gate,6.8,45.0466,-64.4121,Hydro,,,Natural Resources Canada
+CAN0007938,Hermanville / Clearspring,30.0,46.4543,-62.3146,Wind,,PEI Energy Corp,Natural Resources Canada
+CAN0007939,Heywood,7.2,43.199,-79.2646,Hydro,,St. Catharines Hydro Generation Inc,Natural Resources Canada
+CAN0007940,Higgins Mountain,3.6,45.5892,-63.614,Wind,,,Natural Resources Canada
+CAN0007941,High Falls,5.4,48.4434,-92.3562,Hydro,,High Falls Development Partnership,Natural Resources Canada
+CAN0002155,High Falls (Lièvre),114.1,45.8396,-75.6456,Hydro,,Énergie La Lièvre  Sec/Énergie Brookfield Inc,Natural Resources Canada
+CAN0007943,High Falls (OPG),3.0,44.9538,-76.6087,Hydro,,,Natural Resources Canada
+CAN0007944,High Falls (Worthington),19.3,46.3792,-81.5696,Hydro,,,Natural Resources Canada
+CAN0007945,Hillside Boularderie,4.0,46.2448,-60.3488,Wind,,,Natural Resources Canada
+CAN0007946,Hinds Lake,75.0,49.0825,-57.2014,Hydro,,,Natural Resources Canada
+CAN0007947,Hinton Pulp,52.0,53.4153,-117.5717,Biomass,,,Natural Resources Canada
+CAN0007948,Hluey Lake (SNP),3.0,58.3547,-130.256,Hydro,,,Natural Resources Canada
+CAN0007949,Hogg,18.0,47.2134,-84.6188,Hydro,,Brookfield Renewable Power Inc,Natural Resources Canada
+CAN0007950,Hollingsworth,23.0,47.9605,-84.504,Hydro,,Brookfield Renewable Power Inc,Natural Resources Canada
+CAN0007951,Hollow Bridge,5.3,45.0036,-64.3764,Hydro,,,Natural Resources Canada
+CAN0002054,Holyrood,490.0,47.4532,-53.0976,Oil,,,Natural Resources Canada
+CAN0002055,Horizon (CNRL),103.0,57.3393,-111.7578,Gas,,CNRL Horizon,Natural Resources Canada
+CAN0007952,Horse Chops,8.3,47.132,-52.9816,Hydro,,,Natural Resources Canada
+CAN0007953,Horseshoe,14.0,51.118,-115.0343,Hydro,,TransAlta (100%),Natural Resources Canada
+CAN0007954,Hound Chute,9.0,47.3047,-79.6966,Hydro,,Umh Energy Partnership  An Ontario General Partnership of Ontario Power Generation Inc and Umh Energy Inc,Natural Resources Canada
+CAN0002156,Howe Sound Pulp & Paper Corp,112.0,49.522,-123.4862,Biomass,,,Natural Resources Canada
+CAN0007957,Hull (Chute Des Chaudières),12.0,45.4235,-75.7207,Hydro,,Energy Ottawa Inc,Natural Resources Canada
+CAN0007958,Hull-2,27.0,45.4217,-75.7197,Hydro,,Energy Ottawa Inc,Natural Resources Canada
+CAN0007959,Humber Treatment Plant,4.7,43.6333,-79.4806,Biomass,,,Natural Resources Canada
+CAN0007960,Huron,9.0,44.3115,-81.5463,Wind,,,Natural Resources Canada
+CAN0007961,Hwy 101 Landfill,2.0,44.8112,-63.7758,Biomass,,,Natural Resources Canada
+CAN0007962,Hystad,6.0,52.8413,-119.3524,Hydro,,,Natural Resources Canada
+CAN0007963,Illumination,10.0,44.0636,-78.8664,Solar,,Illumination LP,Natural Resources Canada
+CAN0007964,Index Energy Mills Road Corp,17.8,43.8474,-79.0249,Biomass,,Index Energy Mills Road Corp,Natural Resources Canada
+CAN0007965,Ingersoll 1,9.5,43.088,-80.8462,Solar,,Fiera Solar Ingersoll 1 LP,Natural Resources Canada
+CAN0007966,Intercon Pulp Mill,32.0,53.9235,-122.6957,Biomass,,,Natural Resources Canada
+CAN0007967,Interlakes,5.0,50.6335,-115.1392,Hydro,,TransAlta (100%),Natural Resources Canada
+CAN0007968,Iona Island Wwtp LFG,4.0,49.2186,-123.2015,Biomass,,,Natural Resources Canada
+CAN0007969,Irish Mountain,2.0,45.4933,-62.6245,Wind,,,Natural Resources Canada
+CAN0002056,Iroquois Falls,131.0,48.7692,-80.6666,Gas,,,Natural Resources Canada
+CAN0007970,Iroquois Falls,29.0,48.7638,-80.6688,Hydro,,H2O Power LP,Natural Resources Canada
+CAN0007971,Island Falls (H2O),38.0,49.5772,-81.3821,Hydro,,H2O Power LP,Natural Resources Canada
+CAN0002157,Island Falls (Sk),111.0,55.5284,-102.3561,Hydro,,Saskatchewan Power Corp,Natural Resources Canada
+CAN0002057,Island Generation,275.0,50.0694,-125.2815,Gas,,Capital Power,Natural Resources Canada
+CAN0007973,Isle Madame,2.0,45.569,-61.0745,Wind,,,Natural Resources Canada
+CAN0002158,Isle-Maligne,463.8,48.5771,-71.6347,Hydro,,Rio Tinto (Rt),Natural Resources Canada
+CAN0008605,Jamie Creek,21.0,50.8282,-123.0568,Hydro,,Jamie Creek LP,Natural Resources Canada
+CAN0002159,Jardin d'Éole,133.3,48.7355,-67.6658,Wind,,Northland Power Inc,Natural Resources Canada
+CAN0007976,Jean-Guérin,5.9,46.6353,-71.0477,Hydro,,Société d'Énergie Columbus Inc,Natural Resources Canada
+CAN0002160,Jean-Lesage (Manic-2),1229.0,49.3213,-68.3467,Hydro,,Hydro-Québec,Natural Resources Canada
+CAN0002161,Jenpeg,115.0,54.5432,-98.0282,Hydro,,,Natural Resources Canada
+CAN0002162,Jericho,149.0,43.1333,-81.8938,Wind,,Jericho Wind  LP,Natural Resources Canada
+CAN0007980,Jim-Gray,63.0,48.6987,-71.2125,Hydro,,Hydro Saguenay,Natural Resources Canada
+CAN0008606,Jimmie Creek (Upper Toba Valley),62.0,50.604,-124.0249,Hydro,,,Natural Resources Canada
+CAN0007981,Joey-Tanenbaum,17.0,45.8781,-76.6961,Hydro,,Coulonge Énergie (Société en Commandite)/Hydro-Pontiac Inc,Natural Resources Canada
+CAN0002058,Joffre,480.0,52.3078,-113.5468,Gas,,ATCO / Nova / Capital Power,Natural Resources Canada
+CAN0002163,John Hart,126.0,50.044,-125.3109,Hydro,,BC Hydro,Natural Resources Canada
+CAN0007983,Jones Falls,2.4,44.5476,-76.2367,Hydro,,Fortis Generation East LP,Natural Resources Canada
+CAN0007984,Jonquière,4.9,48.4167,-71.2555,Hydro,,Hydro Saguenay,Natural Resources Canada
+CAN0007985,Jonquière 1,4.5,48.4221,-71.2534,Hydro,,Ville de Saguenay,Natural Resources Canada
+CAN0002164,Jordan River,170.0,48.4297,-124.0523,Hydro,,BC Hydro,Natural Resources Canada
+CAN0002165,K2 Wind,270.0,43.9373,-81.6399,Wind,,K2 Wind Ontario LP,Natural Resources Canada
+CAN0007988,Kaizer Meadow,2.0,44.7278,-64.2544,Wind,,,Natural Resources Canada
+CAN0007989,Kakabeka,25.0,48.3975,-89.6165,Hydro,,,Natural Resources Canada
+CAN0007990,Kananaskis,19.0,51.0969,-115.0582,Hydro,,TransAlta (100%),Natural Resources Canada
+CAN0007991,Kap Solar Park,6.0,49.375,-82.3928,Solar,,New Ospvf 7 LP,Natural Resources Canada
+CAN0007992,Kapuskasing,2.8,49.4131,-82.4299,Hydro,,,Natural Resources Canada
+CAN1060438,Kearl,100.0,50.6897,-120.0878,Gas,2014.0,Domtar,Canadian Power Plant Database
+CAN0002059,Keephills,1253.0,53.4487,-114.4501,Coal,,Capital Power (50%) / TransAlta (50%),Natural Resources Canada
+CAN0002166,Kelsey,286.0,56.0405,-96.5379,Hydro,,,Natural Resources Canada
+CAN0002167,Kemano,896.0,53.5632,-127.9426,Hydro,,,Natural Resources Canada
+CAN0007995,Kemptown,5.0,45.4485,-63.1148,Wind,,,Natural Resources Canada
+CAN0007996,Kenora,6.0,49.7725,-94.5035,Hydro,,H2O Power LP,Natural Resources Canada
+CAN0007997,Kent Breeze,20.0,42.5452,-82.0506,Wind,,TransAlta (100%),Natural Resources Canada
+CAN0002168,Kent Hills 1 / 2,150.0,45.8194,-64.8894,Wind,,TransAlta (83%),Natural Resources Canada
+CAN0008607,Ketch Harbour Wind Power Project,4.6,44.5372,-63.6098,Wind,,Watts Wind,Natural Resources Canada
+CAN0002169,Kettle,1220.0,56.3817,-94.6346,Hydro,,,Natural Resources Canada
+CAN0008000,Kettles Hill,63.0,49.5159,-113.8218,Wind,,Kettles Hill Wind Energy,Natural Resources Canada
+CAN0008001,Kimberley,1.0,49.669,-115.9476,Solar,,City of Kimberley,Natural Resources Canada
+CAN0008002,Kingsbridge 1,39.6,43.8589,-81.692,Wind,,Cp Renewable Energy (Kingsbridge) LP,Natural Resources Canada
+CAN0008003,Kingston Gardiner Hwy2 North,10.0,44.2966,-76.633,Solar,,Sune Westbrook LP,Natural Resources Canada
+CAN0008004,Kingston Gardiner Hwy2 South,10.0,44.2712,-76.6719,Solar,,Sune Hwy 2 S LP,Natural Resources Canada
+CAN0008005,Kingston Gardiner TS Odessa,10.0,44.2653,-76.7686,Solar,,Sune Odessa LP,Natural Resources Canada
+CAN0008006,Kingston Gardiner TS Unity Road,10.0,44.3201,-76.5667,Solar,,Sune Unity LP,Natural Resources Canada
+CAN0008007,Kingston Mills,1.9,44.2934,-76.4405,Hydro,,Fortis Generation East LP,Natural Resources Canada
+CAN0002170,Kipling,232.0,50.1449,-82.2086,Hydro,,Ontario Power Generation,Natural Resources Canada
+CAN0002060,Kirkland G1-G5,122.0,48.135,-80.0405,Gas,,,Natural Resources Canada
+CAN0008009,Kokish River,45.0,50.5199,-126.8755,Hydro,,,Natural Resources Canada
+CAN0002171,Kootenay Canal,570.0,49.4533,-117.5179,Hydro,,BC Hydro,Natural Resources Canada
+CAN0008011,Kruger Products Paper Mill,14.0,49.2013,-122.9366,Biomass,,,Natural Resources Canada
+CAN0008012,Kwoiek Creek,49.9,50.1051,-121.5671,Hydro,,Innergex Inc (50%) / Kanaka Bar Indian Band (50%),Natural Resources Canada
+CAN0002263,L'Anse-à-Valleau,100.5,49.0798,-64.6289,Wind,,Cartier Wind Energy,Natural Resources Canada
+CAN0002172,La Gabelle,131.0,46.4491,-72.7393,Hydro,,Hydro-Québec,Natural Resources Canada
+CAN0002173,La Grande-1,1436.0,53.7323,-78.5712,Hydro,,Hydro-Québec,Natural Resources Canada
+CAN0002174,La Grande-2-A,2106.0,53.7808,-77.5483,Hydro,,Hydro-Québec,Natural Resources Canada
+CAN0002175,La Grande-3,2417.0,53.7274,-75.9874,Hydro,,Hydro-Québec,Natural Resources Canada
+CAN0002176,La Grande-4,2779.0,53.8864,-73.466,Hydro,,Hydro-Québec,Natural Resources Canada
+CAN0008018,La Mitis,24.6,48.3694,-67.8251,Wind,,EDF Energies Nouvelles (70%) / Energie Renouvelable de La Mitis (30%),Natural Resources Canada
+CAN0008019,La Sarre-1,1.1,48.8473,-79.1497,Hydro,,Centrale Hydroélectrique La Sarre 1/Hydro-Abitibi Inc,Natural Resources Canada
+CAN0002177,La Tuque,294.0,47.4446,-72.7987,Hydro,,Hydro-Québec,Natural Resources Canada
+CAN0008021,Lac Seul / Ear Falls,29.0,50.6307,-93.2206,Hydro,,Ontario Power Generation Inc,Natural Resources Canada
+CAN0002178,Lac-Alfred,300.0,48.4194,-67.7137,Wind,,Enbridge (67.5%) / EDF Energies Nouvelles (20%) / Mrc of La Mitis & Matapedia (12.5%),Natural Resources Canada
+CAN0008025,Lac-Robertson,22.0,50.9989,-59.0621,Hydro,,Hydro-Québec,Natural Resources Canada
+CAN0008023,Lachenaie Landfill,4.0,45.7326,-73.5346,Biomass,,,Natural Resources Canada
+CAN0008024,Lachute LFG,10.0,45.6093,-74.2492,Biomass,,Lidya Energy,Natural Resources Canada
+CAN0008026,Ladore Falls,47.0,50.0173,-125.393,Hydro,,BC Hydro,Natural Resources Canada
+CAN0008027,Lafleche LFG,4.2,45.3044,-74.9928,Biomass,,Moose Creek Energy LP,Natural Resources Canada
+CAN0002179,Laforge-1,878.0,54.1693,-72.6146,Hydro,,Hydro-Québec,Natural Resources Canada
+CAN0002180,Laforge-2,319.0,54.5909,-71.2787,Hydro,,Hydro-Québec,Natural Resources Canada
+CAN0008030,Lajoie,25.0,50.8397,-122.8559,Hydro,,BC Hydro,Natural Resources Canada
+CAN0008031,Lake Buntzen 1,59.0,49.3706,-122.8736,Hydro,,BC Hydro,Natural Resources Canada
+CAN0008032,Lake Buntzen 2,17.8,49.3757,-122.8684,Hydro,,BC Hydro,Natural Resources Canada
+CAN0002061,Lake Superior,110.0,46.5158,-84.3689,Gas,,,Natural Resources Canada
+CAN0008033,Lakefield,2.0,44.421,-78.2722,Hydro,,,Natural Resources Canada
+CAN0008034,Lameque,45.0,47.8494,-64.6187,Wind,,,Natural Resources Canada
+CAN0008035,Lamont Creek,27.0,49.569,-122.3446,Hydro,,Innergex Inc (50%) / Harrison Hydro Project (50%),Natural Resources Canada
+CAN1060487,Landis,79.0,52.1988,-108.4509,Gas,1975.0,Ontario Power Generation,Canadian Power Plant Database
+CAN0008036,Laurie River I,5.0,56.2508,-101.1171,Hydro,,,Natural Resources Canada
+CAN0008037,Laurie River II,5.1,56.2251,-101.0094,Hydro,,,Natural Resources Canada
+CAN0008038,Le Granit,24.6,45.6994,-70.58,Wind,,EDF Energies Nouvelles (70%) / Energie du Granit (30%),Natural Resources Canada
+CAN0008609,Le Nordais (Phase 1 - Cap Chat),56.3,49.0673,-66.7573,Wind,,Transalta,Natural Resources Canada
+CAN0008039,Le Nordais 2 (Matane),42.8,48.7816,-67.6097,Wind,,TransAlta (100%),Natural Resources Canada
+CAN0002181,Le Plateau 1,138.6,48.0503,-67.4303,Wind,,,Natural Resources Canada
+CAN0008041,Le Plateau 2,21.2,48.0532,-67.4782,Wind,,Invenergy Wind Canada & Regie Intermunicipale de L'energie Gaspesie-Iles-de-la-Madeleine,Natural Resources Canada
+CAN0008042,Lebreux,1.0,48.1545,-65.3474,Hydro,,Hydro Canomore Inc,Natural Resources Canada
+CAN0002062,Lennox,2000.0,44.1442,-76.848,Gas,,Ontario Power Generation Inc,Natural Resources Canada
+CAN0008043,Lequille,26.0,44.7267,-65.4967,Hydro,,,Natural Resources Canada
+CAN0002182,Les Cèdres,113.0,45.3089,-74.0273,Hydro,,Hydro-Québec,Natural Resources Canada
+CAN0008045,Lethbridge,4.0,49.7094,-112.7742,Biomass,,ECB Enviro,Natural Resources Canada
+CAN0008046,Liberty Energy Centre,11.4,43.2608,-79.792,Biomass,,,Natural Resources Canada
+CAN0008047,Lily Lake,10.0,44.3136,-78.3926,Solar,,Peterborough Utilities Inc,Natural Resources Canada
+CAN0008048,Limerock,5.0,45.5397,-62.8225,Wind,,,Natural Resources Canada
+CAN0002183,Limestone,1350.0,56.5075,-94.1097,Hydro,,,Natural Resources Canada
+CAN0002063,Lingan,620.0,46.2358,-60.039,Coal,,,Natural Resources Canada
+CAN0008050,Lingan,18.1,46.2453,-60.0387,Wind,,,Natural Resources Canada
+CAN0008051,Liskeard 1,10.0,47.5126,-79.708,Solar,,TransCanada Energy Ltd,Natural Resources Canada
+CAN0008052,Liskeard 3,10.0,47.49,-79.7115,Solar,,TransCanada Energy Ltd,Natural Resources Canada
+CAN0008053,Liskeard 4,10.0,47.5049,-79.7115,Solar,,TransCanada Energy Ltd,Natural Resources Canada
+CAN0002184,Little Long,205.0,50.0036,-82.1649,Hydro,,Ontario Power Generation,Natural Resources Canada
+CAN0008055,Little River Harbour,2.0,43.7532,-66.0303,Wind,,,Natural Resources Canada
+CAN0008056,Lockston,3.0,48.4008,-53.3786,Hydro,,,Natural Resources Canada
+CAN0008057,Lois Lake,37.0,49.7699,-124.317,Hydro,,,Natural Resources Canada
+CAN0008058,London Street,4.1,44.3114,-78.3143,Hydro,,Peterborough Utilities Inc,Natural Resources Canada
+CAN0008059,Long Lake,31.0,56.0623,-130.0185,Hydro,,Regional Power Inc,Natural Resources Canada
+CAN0008060,Long Sault Rapids,18.0,49.2136,-81.0204,Hydro,,Algonquin Power,Natural Resources Canada
+CAN0002185,Long Spruce,980.0,56.3978,-94.3687,Hydro,,,Natural Resources Canada
+CAN0008062,Longlac Biomass Cogeneration,25.0,49.7678,-86.5421,Biomass,,,Natural Resources Canada
+CAN0008063,Longueil TS Malbouef,10.0,45.574,-74.8192,Solar,,Sune Alfred LP,Natural Resources Canada
+CAN0008064,Lookout Brook,6.2,48.3662,-58.2939,Hydro,,,Natural Resources Canada
+CAN0008610,Lorenzetta Creek,3.0,49.3277,-121.6013,Hydro,,Zella Holdings Ltd,Natural Resources Canada
+CAN0008065,Lower Bear,10.0,49.748,-123.5159,Hydro,,,Natural Resources Canada
+CAN0008066,Lower Bonnington,54.0,49.4617,-117.5004,Hydro,,,Natural Resources Canada
+CAN0008067,Lower Clowhom,11.0,49.8176,-123.3973,Hydro,,Hydromax Energy Ltd,Natural Resources Canada
+CAN0008068,Lower Great Brook,3.9,44.09,-64.848,Hydro,,,Natural Resources Canada
+CAN0008069,Lower Lake Falls,7.2,44.1577,-64.9772,Hydro,,,Natural Resources Canada
+CAN0002186,Lower Notch,274.0,47.1389,-79.4541,Hydro,,,Natural Resources Canada
+CAN0008071,Lower St Croix,3.0,44.9613,-64.0331,Hydro,,,Natural Resources Canada
+CAN0008072,Lower Sturgeon,14.0,48.8132,-81.4875,Hydro,,Umh Energy Partnership  An Ontario General Partnership of Ontario Power Generation Inc and Umh Energy Inc,Natural Resources Canada
+WKS0067649,Loyalist,54.0,44.37,-76.975,Solar,,,Wiki-Solar
+CAN0008073,Lumsden,2.8,45.0275,-64.3967,Hydro,,,Natural Resources Canada
+CAN0008074,Lunarlight,10.0,44.3145,-77.432,Solar,,Lunarlight LP,Natural Resources Canada
+CAN0008075,MacKay,62.0,47.2688,-84.4364,Hydro,,Brookfield Renewable Power Inc,Natural Resources Canada
+CAN0002064,MacKay River,165.0,57.0413,-111.9055,Gas,,TransCanada,Natural Resources Canada
+CAN0008076,MacKenzie Conifex Green Energy,36.0,55.337,-123.1823,Biomass,,Conifex Power Inc,Natural Resources Canada
+CAN0008077,MacLeod Flats,3.0,49.6868,-113.4752,Wind,,Vision Quest (TransAlta),Natural Resources Canada
+CAN0002187,Mactaquac,668.0,45.9551,-66.8665,Hydro,,,Natural Resources Canada
+CAN0008079,Magpie,40.6,50.3228,-64.4542,Hydro,,Magpie (Société en Commandite),Natural Resources Canada
+CAN0008080,Magrath,30.0,49.3859,-112.9488,Wind,,Suncor / EHN/ Enbridge,Natural Resources Canada
+CAN0002065,Mahkeses,168.0,54.5838,-110.3934,Gas,,Imperial Oil,Natural Resources Canada
+CAN0008081,Malay Falls,3.0,44.9877,-62.4841,Hydro,,,Natural Resources Canada
+CAN0008082,Mamquam,58.0,49.7214,-123.0919,Hydro,,Atlantic Power Corp,Natural Resources Canada
+CAN0002188,Manic-1,184.0,49.1913,-68.3294,Hydro,,Hydro-Québec,Natural Resources Canada
+CAN0002189,Manic-5,1596.0,50.6398,-68.7267,Hydro,,Hydro-Québec,Natural Resources Canada
+CAN0002190,Manic-5-PA,1064.0,50.6467,-68.7395,Hydro,,Hydro-Québec,Natural Resources Canada
+CAN0008086,Manitou Falls,73.0,50.5837,-93.4554,Hydro,,,Natural Resources Canada
+CAN0008087,Maquatua,1.1,53.0035,-78.7935,Hydro,,Corporation Sakami Eeyou,Natural Resources Canada
+CAN0008088,Marathon Pulp Inc,15.5,48.7186,-86.3941,Biomass,,,Natural Resources Canada
+CAN0008089,Marches-Naturelles,4.2,46.8941,-71.1587,Hydro,,Boralex Énergie (Société en Commandite) /Boralex Inc,Natural Resources Canada
+CAN0008611,Marion 3 Creek,5.0,49.2342,-125.3569,Hydro,,,Natural Resources Canada
+CAN0008090,Marmora,1.0,44.4851,-77.6876,Hydro,,Shaman Power Corp,Natural Resources Canada
+CAN0008091,Martock Ridge,6.0,44.927,-64.1192,Wind,,,Natural Resources Canada
+CAN0008092,Maryvale,6.0,45.7288,-62.0635,Wind,,,Natural Resources Canada
+CAN0002191,Massif du Sud,150.0,46.5668,-70.4849,Wind,,Enbridge (80%) / EDF Energies Nouvelles (20%),Natural Resources Canada
+CAN0002192,Masson,119.4,45.5432,-75.4203,Hydro,,Énergie La Lièvre  Sec/Énergie Brookfield Inc,Natural Resources Canada
+CAN0008095,Matabitchuan,10.0,47.1233,-79.4946,Hydro,,,Natural Resources Canada
+CAN0008096,Mattawishkwia,10.0,49.6807,-83.6816,Solar,,New Ospvf 10 LP,Natural Resources Canada
+CAN0008097,Matthias,3.0,44.9934,-79.2019,Hydro,,Orillia Power Generation Corp,Natural Resources Canada
+CAN0008098,Mayo A,5.0,63.654,-135.9155,Hydro,,,Natural Resources Canada
+CAN0008099,Mayo B,10.0,63.6329,-135.9283,Hydro,,,Natural Resources Canada
+CAN0008101,McBride Lake,75.2,49.6123,-113.4815,Wind,,Vision Quest (TransAlta),Natural Resources Canada
+CAN0002193,McCormick,235.0,49.193,-68.3268,Hydro,,Société en Commandite Hydroélectrique Manicouagan (Schm),Natural Resources Canada
+CAN0008103,McDougall,8.6,46.7405,-71.6955,Hydro,,Fiducie R.S.P. Hydro Inc/ Boralex Inc,Natural Resources Canada
+CAN0008612,McIntosh Creek,1.0,53.3687,-120.3754,Hydro,,Snowshoe Power Ltd,Natural Resources Canada
+CAN0008104,McKenzie Falls,1.1,49.8047,-93.1887,Hydro,,,Natural Resources Canada
+CAN0008105,McLean's Mountain,60.0,45.9355,-81.9835,Wind,,McLean's Mountain Wind LP,Natural Resources Canada
+CAN0008613,McLymont Creek,66.0,56.6872,-130.7975,Hydro,,,Natural Resources Canada
+CAN0002066,McMahon Cogeneration,120.0,56.1447,-120.6686,Gas,,Spectra Energy (50%) / ATCO Pwer (50%),Natural Resources Canada
+CAN0008106,McNair Creek,10.0,49.5158,-123.5015,Hydro,,,Natural Resources Canada
+CAN0008107,McPhail,13.0,47.9054,-84.6705,Hydro,,Brookfield Renewable Power Inc,Natural Resources Canada
+CAN0008108,McVittie,3.0,46.2846,-80.8484,Hydro,,,Natural Resources Canada
+CAN0008100,Mcarthur,56.0,50.3981,-95.9977,Hydro,,,Natural Resources Canada
+CAN0008109,Mears Creek,3.8,49.872,-126.2136,Hydro,,Synex,Natural Resources Canada
+CAN0002264,Meikle Wind,185.0,55.2856,-121.4691,Wind,,,Natural Resources Canada
+CAN0008110,Melancthon I,67.5,44.082,-80.287,Wind,,Melancthon Wolfe Wind LP,Natural Resources Canada
+CAN0002194,Melancthon II,132.0,44.118,-80.3129,Wind,,Melancthon Wolfe Wind LP,Natural Resources Canada
+CAN0008112,Memphrémagog,1.8,45.263,-72.1435,Hydro,,Ville de Magog,Natural Resources Canada
+CAN0008113,Menihek,18.7,54.4711,-66.6125,Hydro,,,Natural Resources Canada
+CAN0008114,Mercier,55.0,46.7173,-75.9825,Hydro,,Hydro-Québec,Natural Resources Canada
+CAN0002067,Meridian Cogeneration,210.0,53.2593,-109.9512,Gas,,TransAlta Ltd / Husky Oil Ltd,Natural Resources Canada
+CAN0008115,Merrick Landfill,1.6,46.5158,-79.4932,Biomass,,North Bay Hydro Services Inc,Natural Resources Canada
+CAN0008116,Merrickville,2.0,44.9178,-75.8373,Hydro,,,Natural Resources Canada
+CAN0002195,Mesgi'g Ugju's'n,149.3,48.2505,-66.7255,Wind,,Innergex Inc (50%) / Mi’gmawei Mawiomi Business Corp (50%),Natural Resources Canada
+CAN0008118,Methals,3.0,44.9397,-64.4315,Hydro,,,Natural Resources Canada
+CAN0008119,Meyersburg,5.0,44.2482,-77.8019,Hydro,,,Natural Resources Canada
+CAN0002196,Mica,2746.0,52.0759,-118.5705,Hydro,,BC Hydro,Natural Resources Canada
+CAN0008615,Middle,8.0,54.3787,-128.8852,Hydro,,,Natural Resources Canada
+CAN0008121,Midhurst 2,3.5,44.5392,-79.765,Solar,,Met Fiera Solar Midhurst 2 LP,Natural Resources Canada
+CAN0008122,Midhurst 3,3.5,44.4724,-79.5693,Solar,,Met Fiera Solar Midhurst 3 LP,Natural Resources Canada
+CAN0008123,Midhurst 4,6.5,44.4696,-79.5615,Solar,,Met Fiera Solar Midhurst 4 LP,Natural Resources Canada
+CAN0008124,Midhurst 6,8.5,44.4762,-79.7194,Solar,,Met Fiera Solar Midhurst 6 LP,Natural Resources Canada
+WKS0062168,Midhurst II,3.5,44.5397,-79.762,Solar,,,Wiki-Solar
+CAN0008125,Mightysolar,10.0,45.1276,-75.2581,Solar,,Concord Mightysolar Partnership,Natural Resources Canada
+CAN0008126,Mill Lake,2.2,44.7116,-63.8962,Hydro,,,Natural Resources Canada
+CAN0002068,Millbank,397.0,47.0738,-65.4552,Oil,,,Natural Resources Canada
+CAN0008127,Millbrook,6.0,45.3263,-63.3441,Wind,,Millbrook Community Wind Inc,Natural Resources Canada
+CAN0008128,Miller Creek,33.0,50.3499,-122.8714,Hydro,,Innergex Inc,Natural Resources Canada
+CAN0008129,Milltown,3.0,45.1755,-67.2929,Hydro,,,Natural Resources Canada
+CAN0008130,Minashtuk,12.1,48.9062,-72.2053,Hydro,,Minashtuk (Société en Commandite),Natural Resources Canada
+CAN0008131,Minden,4.0,44.941,-78.7083,Hydro,,Orillia Power Generation Corp,Natural Resources Canada
+CAN0008132,Miramichi,42.0,46.9697,-65.5943,Biomass,,,Natural Resources Canada
+CAN0008133,Misema,3.0,47.8996,-79.8759,Hydro,,TransAlta (100%),Natural Resources Canada
+CAN0008134,Mission,16.0,47.9384,-84.8373,Hydro,,Brookfield Renewable Power Inc,Natural Resources Canada
+CAN0002069,Mississauga,122.0,43.6987,-79.6434,Gas,,TransAlta (50%),Natural Resources Canada
+CAN0008135,Mississippi Mills,10.0,45.3092,-76.2435,Solar,,TransCanada Energy Ltd,Natural Resources Canada
+CAN0008136,Mitis-1,6.0,48.6036,-68.1376,Hydro,,Hydro-Québec,Natural Resources Canada
+CAN0008137,Mitis-2,4.0,48.6219,-68.1378,Hydro,,Hydro-Québec,Natural Resources Canada
+CAN0008138,Mobile,12.0,47.2479,-52.8418,Hydro,,,Natural Resources Canada
+CAN0008139,Mohawk Point,9.9,42.8514,-79.4903,Wind,,,Natural Resources Canada
+CAN0008616,Mont Copper,54.0,48.9399,-65.5271,Wind,,NextEra Energy,Natural Resources Canada
+CAN0008140,Mont Miller,54.0,48.98,-65.4958,Wind,,NextEra Energy,Natural Resources Canada
+CAN0008617,Mont Rothery,74.0,48.972,-65.3796,Wind,,EDF Energies Nouvelles 50%,Natural Resources Canada
+CAN0002265,Mont-Louis,100.5,49.1818,-65.6502,Wind,,Northland Power,Natural Resources Canada
+CAN0008618,Montagne-Sèche,58.5,49.178,-64.9418,Wind,,Innergex Inc (38%) / TransCanada (42%),Natural Resources Canada
+CAN0008142,Montmagny,2.1,46.9872,-70.5492,Hydro,,Innergex Montmagny (Société en Commandite),Natural Resources Canada
+CAN0008143,Montrose,73.0,50.6231,-124.1873,Hydro,,,Natural Resources Canada
+CAN0002197,Montérégie,101.2,45.2748,-73.5774,Wind,,,Natural Resources Canada
+CAN0008144,Moose Rapids,1.4,46.6292,-80.6646,Hydro,,Canadian Hydro Developers  Inc,Natural Resources Canada
+CAN0008145,Moresby Lake,6.0,52.9345,-132.1282,Hydro,,Atlantic Power Corp,Natural Resources Canada
+CAN0008146,Morley,10.0,48.7069,-94.2503,Solar,,Rainy River First Nations Solar 1 LP,Natural Resources Canada
+CAN0008147,Morris,1.1,47.2537,-52.9358,Hydro,,,Natural Resources Canada
+CAN0008148,Morse,23.0,50.3989,-106.9585,Wind,,Algonquin Power,Natural Resources Canada
+CAN0008149,Mother Earth I,4.0,45.8185,-82.1428,Wind,,Mere General Partner Inc,Natural Resources Canada
+CAN0002198,Mountain Chute,170.0,45.1957,-76.9074,Hydro,,,Natural Resources Canada
+CAN0008151,Mulgrave,2.3,45.6207,-61.4343,Wind,,,Natural Resources Canada
+CAN0008152,Murdock-Wilson,61.2,48.452,-71.2132,Hydro,,Hydro Saguenay,Natural Resources Canada
+CAN0002070,Muskeg River,202.0,57.2537,-111.5064,Gas,,ATCO Power,Natural Resources Canada
+CAN0002071,Nabiye,170.0,54.7265,-110.3441,Gas,,Imperial Oil,Natural Resources Canada
+CAN0008153,Nairn,4.5,46.344,-81.5734,Hydro,,,Natural Resources Canada
+CAN0008154,Namewaminikan,10.0,49.6826,-88.0049,Hydro,,Namewaminikan Hydro Inc,Natural Resources Canada
+WKS0067638,Nanticoke,44.0,42.81,-80.035,Solar,,,Wiki-Solar
+CAN0008155,Napanee TS Taylor Kidd,10.0,44.2175,-76.7082,Solar,,Sune Taylor Kidd LP,Natural Resources Canada
+CAN0008156,Napier Wind,4.1,42.9564,-81.7328,Wind,,WPD Napier Wind Inc,Natural Resources Canada
+CAN0008157,Naylor,10.0,42.1941,-82.8105,Wind,,,Natural Resources Canada
+CAN0008158,Nechako Lumber,1.8,54.0147,-124.0513,Biomass,,Nechako Lumber Co. Ltd,Natural Resources Canada
+CAN0008159,Nepisiguit Falls,11.0,47.4055,-65.7918,Hydro,,,Natural Resources Canada
+CAN0008160,New Chelsea,3.7,48.0292,-53.2104,Hydro,,,Natural Resources Canada
+CAN0008161,New Glasgow (Watts Wind II),6.4,45.5057,-62.6099,Wind,,,Natural Resources Canada
+CAN0008162,New Richmond,67.8,48.1999,-65.7166,Wind,,TransAlta (100%),Natural Resources Canada
+CAN0008163,Nictaux,7.2,44.9091,-65.0299,Hydro,,,Natural Resources Canada
+CAN0008164,Nine Mile River,4.0,45.0222,-63.6552,Wind,,,Natural Resources Canada
+CAN0002199,Nipawin,255.0,53.321,-104.0431,Hydro,,Saskatchewan Power Corp,Natural Resources Canada
+CAN0008166,Nipissing,2.0,46.0967,-79.4796,Hydro,,,Natural Resources Canada
+CAN0008167,Norfolk Bloomsburg,10.0,42.8745,-80.2972,Solar,,Sune Norfolk Bloomsburg LP,Natural Resources Canada
+CAN0008168,Norman,9.5,49.7717,-94.5243,Hydro,,H2O Power LP,Natural Resources Canada
+CAN0002072,North Battleford,260.0,52.6832,-108.1715,Gas,,Saskatchewan Power Corp,Natural Resources Canada
+CAN0008169,North Beaverbank,8.0,44.9155,-63.6815,Wind,,,Natural Resources Canada
+CAN0008170,North Cape,10.6,47.0485,-63.995,Wind,,PEI Energy Corp,Natural Resources Canada
+CAN0008171,North Maiden,10.0,42.1538,-82.8478,Wind,,,Natural Resources Canada
+CAN1060644,Northern Prairie,85.0,57.0335,-111.6019,Gas,2008.0,Northland Power,Canadian Power Plant Database
+CAN0008172,Northern Pulp Nova Scotia Pictou Mill,26.0,45.6533,-62.7183,Biomass,,,Natural Resources Canada
+CAN0008173,Northland Power Burks Falls West,10.0,45.6081,-79.4262,Solar,,Northland Power Solar Burks Falls West LP,Natural Resources Canada
+CAN0008174,Northland Power Solar Abitibi,10.0,49.1444,-80.9717,Solar,,Northland Power Solar Abitibi LP,Natural Resources Canada
+CAN0008175,Northland Power Solar Belleville North,10.0,44.059,-77.3315,Solar,,Northland Power Solar Belleville North LP,Natural Resources Canada
+CAN0008176,Northland Power Solar Belleville South,10.0,44.066,-77.3151,Solar,,Northland Power Solar Belleville South LP,Natural Resources Canada
+CAN0008177,Northland Power Solar Burks Falls East,10.0,45.612,-79.3572,Solar,,Northland Power Solar Burks Falls East LP,Natural Resources Canada
+CAN0008178,Northland Power Solar Crosby,10.0,44.6707,-76.3044,Solar,,Northland Power Solar Crosby LP,Natural Resources Canada
+CAN0008179,Northland Power Solar Empire,10.0,49.1258,-80.9915,Solar,,Northland Power Solar Empire LP,Natural Resources Canada
+CAN0008180,Northland Power Solar Glendale,10.0,45.0965,-74.7167,Solar,,Northland Power Solar Glendale LP,Natural Resources Canada
+CAN0008181,Northland Power Solar Long Lake,10.0,49.1402,-81.2854,Solar,,Northland Power Solar Long Lake LP,Natural Resources Canada
+CAN0008182,Northland Power Solar Martin's Meadows,10.0,49.1433,-80.9888,Solar,,Northland Power Solar Martin's Meadows LP,Natural Resources Canada
+CAN0008183,Northland Power Solar Mccann LP,10.0,44.6824,-76.2727,Solar,,Northland Power Solar Mccann LP,Natural Resources Canada
+CAN0008184,Northland Power Solar North Burgess,10.0,44.8206,-76.307,Solar,,Northland Power Solar North Burgess LP,Natural Resources Canada
+CAN0008185,Northland Power Solar Rideau Lakes,10.0,44.6692,-76.274,Solar,,Northland Power Solar Rideau Lakes LP,Natural Resources Canada
+CAN0008186,Northwest Stave River,17.5,49.6281,-122.4625,Hydro,,Innergex Inc,Natural Resources Canada
+CAN0008187,Northwood Green Power,63.0,53.9792,-122.6936,Biomass,,,Natural Resources Canada
+CAN0008188,Norway,9.0,47.0078,-64.0206,Wind,,Suez Renewable Energy,Natural Resources Canada
+CAN0008189,Nuttby Mountain,50.6,45.5599,-63.2194,Wind,,,Natural Resources Canada
+CAN0008196,OPG 7 Gomberg,1.8,43.8123,-79.074,Wind,,,Natural Resources Canada
+CAN0008190,Ocean Falls,15.0,52.3511,-127.6862,Hydro,,,Natural Resources Canada
+CAN0008191,Okikendawt,10.0,46.1238,-80.0145,Hydro,,Okikendawt Hydro LP,Natural Resources Canada
+CAN0008192,Old Man 2,46.0,49.5708,-113.8534,Wind,,Mainstream,Natural Resources Canada
+CAN0008193,Old Man River,3.6,49.5777,-113.8702,Wind,,,Natural Resources Canada
+CAN0008194,Old Woman Falls,5.5,49.1651,-82.7136,Hydro,,Nipiy-Owf Hydrokap LP,Natural Resources Canada
+CAN0008195,Oldman River,32.0,49.561,-113.896,Hydro,,ATCO Power,Natural Resources Canada
+CAN0008197,Optimist,1.0,49.5312,-114.0538,Wind,,,Natural Resources Canada
+CAN0008198,Orillia 1,10.0,44.5825,-79.4981,Solar,,Met Fiera Solar Orillia 1 LP,Natural Resources Canada
+CAN0008199,Orillia 2,10.0,44.5809,-79.4984,Solar,,Met Fiera Solar Orillia 2 LP,Natural Resources Canada
+CAN0008200,Orillia 3,6.5,44.586,-79.4995,Solar,,Fiera Solar Orillia 3 LP,Natural Resources Canada
+CAN1060669,Ottawa Health Sciences Centre,68.0,45.4019,-75.6557,Gas,1992.0,Enbridge,Canadian Power Plant Database
+CAN0002200,Otter Rapids,182.0,50.1812,-81.6373,Hydro,,,Natural Resources Canada
+CAN0002201,Otto Holden,243.0,46.3784,-78.7276,Hydro,,Ontario Power Generation (OPG),Natural Resources Canada
+CAN0002202,Outardes-2,523.0,49.1448,-68.3894,Hydro,,Hydro-Québec,Natural Resources Canada
+CAN0002203,Outardes-3,1026.0,49.5576,-68.7256,Hydro,,Hydro-Québec,Natural Resources Canada
+CAN0002204,Outardes-4,785.0,49.7037,-68.9038,Hydro,,Hydro-Québec,Natural Resources Canada
+CAN0008206,Outlet Works,20.5,52.9626,-115.5891,Hydro,,,Natural Resources Canada
+CAN0008207,Oxley,6.0,42.0066,-82.8803,Wind,,Henry Verhoeven,Natural Resources Canada
+CAN0008208,Paradise,4.2,44.8117,-65.2186,Hydro,,,Natural Resources Canada
+CAN0008209,Paradise River,8.0,47.6182,-54.4315,Hydro,,,Natural Resources Canada
+CAN0008210,Parker Mountain,2.0,44.786,-65.4905,Wind,,,Natural Resources Canada
+CAN0008211,Paton,1.6,45.3994,-71.8996,Hydro,,Ville de Sherbrooke /Hydro Sherbrooke,Natural Resources Canada
+CAN0002205,Paugan,226.0,45.8097,-75.9309,Hydro,,Hydro-Québec,Natural Resources Canada
+CAN0002206,Peace Canyon,694.0,55.9826,-121.995,Hydro,,BC Hydro,Natural Resources Canada
+CAN0008214,Peace River Pulp,30.0,56.3711,-117.1856,Biomass,,Daishowa-Marubeni,Natural Resources Canada
+CAN0008215,Penn Energy - Brantgate,8.0,43.049,-80.3883,Solar,,Brantgate Solar Farm Partnership,Natural Resources Canada
+CAN0008216,Penn Energy - Edwardsburgh Morrisburg-1,9.3,44.7257,-75.4928,Solar,,Edwardsburgh Solar Farm Partnership,Natural Resources Canada
+CAN0008217,Penn Energy - Hamilton Port Hope-4,10.0,44.0246,-78.1208,Solar,,Hamilton Solar Farm Partnership,Natural Resources Canada
+CAN0008218,Penn Energy - Ridgefield,8.0,44.4433,-78.6864,Solar,,Ridgefield Solar Farm Partnership,Natural Resources Canada
+CAN0008219,Penn Energy - Roseplain,6.5,44.0616,-79.1816,Solar,,Roseplain Solar Farm Partnership,Natural Resources Canada
+CAN0008220,Penn Energy - S. Glengarry St. Lawrence-1,9.3,45.1066,-74.6822,Solar,,South Glengarry Solar Farm Partnership,Natural Resources Canada
+CAN0008221,Penn Energy - Vandorp,10.0,43.9459,-78.3877,Solar,,Port Hope Solar Farm Partnership,Natural Resources Canada
+CAN0008620,Pennask,15.0,49.9256,-120.1093,Wind,,Zero Emissions Pennask,Natural Resources Canada
+CAN0008222,Pentecôte,2.0,49.7858,-67.157,Hydro,,Pouvoir Riverin Inc (Société en Commandite) /Algonquin Power Fund (Canada)  Inc,Natural Resources Canada
+CAN0008224,Perpetual Cleanpower Lindsay,10.0,44.4307,-78.694,Solar,,Lindsay Solar LP,Natural Resources Canada
+CAN0008225,Perpetual Cleanpower Oro 4 Line,10.0,44.5006,-79.6133,Solar,,Oro-Medonte Solar Farm Inc,Natural Resources Canada
+CAN0008621,Peter Sutherlan Sr.,28.0,49.962,-81.5226,Hydro,,Coral Rapids Power  OPG,Natural Resources Canada
+CAN0008226,Peterborough Robert G. Lake,8.0,44.3653,-78.2928,Hydro,,,Natural Resources Canada
+CAN0008227,Petites-Bergeronnes,4.2,48.2614,-69.6265,Hydro,,Société d'Énergie Columbus Inc,Natural Resources Canada
+CAN0008228,Petty Harbour,4.9,47.4654,-52.7123,Hydro,,,Natural Resources Canada
+CAN0002073,Pickering A,1084.0,43.8107,-79.0689,Nuclear,,,Natural Resources Canada
+CAN0002074,Pickering B,2160.0,43.8096,-79.0639,Nuclear,,,Natural Resources Canada
+CAN0008622,Pierre-De Saurel,24.6,45.967,-72.9274,Wind,,Pierre-De Saurel MCR,Natural Resources Canada
+CAN0008229,Pierres Brook,4.3,47.2884,-52.821,Hydro,,,Natural Resources Canada
+CAN0008230,Pine Creek (Atlin),2.1,59.5825,-133.6448,Hydro,,Xeitl LP,Natural Resources Canada
+CAN0008231,Pine Falls,84.0,50.5671,-96.1783,Hydro,,,Natural Resources Canada
+CAN0002208,Pine Portage,144.0,49.3074,-88.3103,Hydro,,,Natural Resources Canada
+CAN0008233,Pingston Creek,45.0,50.5501,-117.9484,Hydro,,TransAlta (50%),Natural Resources Canada
+CAN0008234,Plateau I / II,18.0,44.247,-80.3944,Wind,,Plateau Wind LP,Natural Resources Canada
+CAN0008235,Plateau III,9.0,44.1886,-80.3088,Wind,,Plateau Wind LP,Natural Resources Canada
+CAN0008236,Pocaterra,15.0,50.6993,-115.1194,Hydro,,TransAlta (100%),Natural Resources Canada
+CAN0002075,Point Aconi,171.0,46.3216,-60.3295,Coal,,,Natural Resources Canada
+CAN0008623,Point Aconi Wind Project,1.9,46.322,-60.32,Wind,,Celtic Current,Natural Resources Canada
+CAN0002076,Point Lepreau,660.0,45.0686,-66.4543,Nuclear,,,Natural Resources Canada
+CAN0008237,Point Tupper,23.4,45.572,-61.3112,Wind,,,Natural Resources Canada
+CAN0002077,Point Tupper,154.0,45.587,-61.3483,Coal,,,Natural Resources Canada
+CAN0008238,Pointe du Bois,75.0,50.2981,-95.5481,Hydro,,,Natural Resources Canada
+CAN0008239,Pointes aux Roches,48.6,42.2841,-82.5284,Wind,,Pointe-aux-Roches Wind LP,Natural Resources Canada
+CAN0008240,Pont-Arnaud,8.0,48.4069,-71.1232,Hydro,,Ville de Saguenay /Hydro-Jonquière,Natural Resources Canada
+CAN0002078,Poplar Creek,360.0,57.008,-111.4868,Gas,,TransAlta,Natural Resources Canada
+CAN0002079,Poplar River,582.0,49.0579,-105.4851,Coal,,Saskatchewan Power Corp,Natural Resources Canada
+CAN0008241,Port Alice,26.1,50.3839,-127.4509,Biomass,,Neucel,Natural Resources Canada
+CAN0002209,Port Alma,101.2,42.1839,-82.2851,Wind,,Kruger Energy Port Alma LP,Natural Resources Canada
+CAN0002210,Port Dover / Nanticoke,104.4,42.8392,-80.0274,Wind,,Capital Power (PDN) LP,Natural Resources Canada
+CAN0008244,Port Hawkesbury,60.0,45.5982,-61.3601,Biomass,,Nova Scotia Power Inc,Natural Resources Canada
+CAN0008245,Port Ryerse,10.0,42.7677,-80.2521,Wind,,Boralex,Natural Resources Canada
+CAN0008624,Porters Lake Wind Power Project,3.2,44.725,-63.3569,Wind,,Watts Wind,Natural Resources Canada
+CAN0002080,Portlands,624.0,43.6495,-79.3311,Gas,,Portlands Energy Centre LP,Natural Resources Canada
+CAN0008246,Portneuf-1 (Chute du 4 Milles),7.5,48.6585,-69.1325,Hydro,,Innergex (Société en Commandite)/Innergex Inc,Natural Resources Canada
+CAN0008247,Portneuf-2 (Chute Phillias),11.7,48.6548,-69.1762,Hydro,,Innergex (Société en Commandite)/Innergex Inc,Natural Resources Canada
+CAN0008248,Portneuf-3 (Les Crans Serrés),8.7,48.6913,-69.3389,Hydro,,Innergex (Société en Commandite)/Innergex Inc,Natural Resources Canada
+CAN0008249,Powell Lake,38.0,49.8723,-124.5577,Hydro,,,Natural Resources Canada
+CAN0008250,Powell River,48.0,49.8731,-124.5544,Biomass,,,Natural Resources Canada
+CAN0002211,Première-Chute,131.0,47.6007,-79.4524,Hydro,,Hydro-Québec,Natural Resources Canada
+CAN1060725,Primrose,85.0,54.6963,-110.7238,Gas,1998.0,Hydro Quebec,Canadian Power Plant Database
+CAN0002212,Prince,189.0,46.6126,-84.4792,Wind,,Brookfield Power Wind Prince LP,Natural Resources Canada
+CAN0008253,Prince George Pulp and Paper Mill,60.0,53.9218,-122.6851,Biomass,,Canadian Forest Products Ltd,Natural Resources Canada
+CAN0008254,Proof Line,6.6,43.1571,-82.0184,Wind,,,Natural Resources Canada
+CAN0008255,Providence Bay,1.6,45.7291,-82.295,Wind,,Schneider Power Providence Bay Inc,Natural Resources Canada
+CAN0008256,Ptarmigan Creek,3.3,53.6785,-120.911,Hydro,,Synex (11%),Natural Resources Canada
+CAN0008257,Pubnico Point 1 / 2,30.6,43.603,-65.8038,Wind,,,Natural Resources Canada
+CAN0008258,Puntledge,24.0,49.665,-125.0939,Hydro,,BC Hydro,Natural Resources Canada
+CAN0002207,Péribonka,385.0,49.5077,-71.1824,Hydro,,Hydro-Québec,Natural Resources Canada
+CAN0002213,Quality Wind,142.2,55.1846,-120.8547,Wind,,Capital Power,Natural Resources Canada
+CAN0002081,Queen Elizabeth,634.0,52.0944,-106.705,Gas,,Saskatchewan Power Corp,Natural Resources Canada
+CAN0008260,Quixote,2.3,44.2734,-81.5794,Wind,,Quixote One Wind Energy Corp,Natural Resources Canada
+CAN0008307,RSP-2,6.5,48.7319,-69.1706,Hydro,,Fiducie Boralex Énergie/Boralex Inc,Natural Resources Canada
+CAN0008308,RSP-3,5.3,48.7351,-69.0648,Hydro,,Fiducie Boralex Énergie/Boralex Inc,Natural Resources Canada
+CAN0008261,Ragged Chute,6.6,47.2763,-79.6714,Hydro,,Ragged Chute Energy Inc,Natural Resources Canada
+CAN0008262,Ragged Rapids,8.0,45.018,-79.6883,Hydro,,,Natural Resources Canada
+CAN0008263,Raging River 2,8.0,50.3884,-127.2335,Hydro,,Aquila Infrastructure,Natural Resources Canada
+CAN0008264,Raglan Mine,3.0,61.7028,-73.6762,Wind,,Glencore,Natural Resources Canada
+CAN1060737,Rainbow Lake A,88.0,58.4471,-119.2383,Gas,1961.0,SaskPower,Canadian Power Plant Database
+CAN1060738,Rainbow Lake B,90.0,58.4471,-119.2383,Gas,1999.0,ATCO,Canadian Power Plant Database
+CAN0008265,Raleigh,78.0,42.2743,-82.1824,Wind,,Terraform Iwg Ontario Holdings  LLC,Natural Resources Canada
+CAN0008266,Ramore,8.0,48.4393,-80.3256,Solar,,New Ospvf 11 LP,Natural Resources Canada
+CAN0008267,Ranney Falls,10.0,44.2921,-77.802,Hydro,,,Natural Resources Canada
+CAN0008268,Rapide-2,67.0,47.9336,-78.5761,Hydro,,Hydro-Québec,Natural Resources Canada
+CAN0008269,Rapide-7,67.0,47.7685,-78.3102,Hydro,,Hydro-Québec,Natural Resources Canada
+CAN0002214,Rapide-Blanc,204.0,47.7964,-72.9735,Hydro,,Hydro-Québec,Natural Resources Canada
+CAN0008271,Rapide-des-Cœurs,76.0,47.7866,-73.3753,Hydro,,Hydro-Québec,Natural Resources Canada
+CAN0002217,Rapides-Farmer,104.0,45.4989,-75.7632,Hydro,,Hydro-Québec,Natural Resources Canada
+CAN0008272,Rapides-des-Cèdres,9.3,46.1009,-75.648,Hydro,,Énergie La Lièvre  SEC,Natural Resources Canada
+CAN0002216,Rapides-des-Quinze,103.0,47.5906,-79.2944,Hydro,,Hydro-Québec,Natural Resources Canada
+CAN0002215,Rapides-des-Îles,176.0,47.5768,-79.3546,Hydro,,Hydro-Québec,Natural Resources Canada
+CAN0008276,Rattle Brook,4.0,49.8876,-56.8359,Hydro,,,Natural Resources Canada
+CAN0008277,Rattling Brook,15.1,49.0675,-55.298,Hydro,,,Natural Resources Canada
+CAN0008278,Ravenswood,9.9,43.1751,-81.9812,Wind,,,Natural Resources Canada
+CAN0008279,Rawdon,2.5,46.0458,-73.7294,Hydro,,Algonquin Power,Natural Resources Canada
+CAN0008280,Raylight,10.0,44.6982,-79.8423,Solar,,Concord Raylight Partnership,Natural Resources Canada
+CAN0008281,Raymond,18.0,49.4071,-112.6924,Hydro,,,Natural Resources Canada
+CAN0008282,Rayner,46.0,46.4337,-83.3838,Hydro,,Brookfield Renewable Power Inc,Natural Resources Canada
+CAN0008283,Red Lily,26.4,50.1919,-101.7433,Wind,,Algonquin Power,Natural Resources Canada
+CAN0008284,Red Rock Falls,41.0,46.315,-83.2905,Hydro,,Brookfield Renewable Power Inc,Natural Resources Canada
+CAN0002218,René-Lévesque (Manic-3),1326.0,49.7408,-68.5945,Hydro,,Hydro-Québec,Natural Resources Canada
+CAN0002219,Revelstoke,2480.0,51.0486,-118.1939,Hydro,,BC Hydro,Natural Resources Canada
+CAN0008287,Revelstoke District,1.5,50.9866,-118.1976,Biomass,,City of Revelstoke,Natural Resources Canada
+CAN0008288,Richardson,10.0,42.2364,-82.4566,Wind,,,Natural Resources Canada
+CAN0008289,Rideau Falls,2.0,45.4422,-75.6959,Hydro,,Fortis Generation East LP,Natural Resources Canada
+CAN0008290,Ridge,3.5,44.5538,-65.583,Hydro,,,Natural Resources Canada
+CAN0008291,Rimouski (La Pulpe),3.7,48.4112,-68.5532,Hydro,,Fiducie Boralex Énergie/Boralex Inc,Natural Resources Canada
+CAN0008292,Ripley,76.0,44.0524,-81.6558,Wind,,Suncor Energy Products Inc & Acciona Wind Energy Canada Inc,Natural Resources Canada
+CAN0002220,Rivière du Moulin 1,150.0,47.9745,-71.0996,Wind,,EDF Energies Nouvelles,Natural Resources Canada
+CAN0002221,Rivière du Moulin 2,200.0,47.997,-71.056,Wind,,EDF Energies Nouvelles,Natural Resources Canada
+CAN0008295,Rivière-des-Prairies,54.0,45.5895,-73.6572,Hydro,,Hydro-Québec,Natural Resources Canada
+CAN0008296,Rivière-du-Loup,2.6,47.8305,-69.53,Hydro,,Algonquin Power,Natural Resources Canada
+CAN0002222,Robert H Saunders,1045.0,45.0088,-74.7905,Hydro,,,Natural Resources Canada
+CAN0008298,Robert O. Pickard,2.4,45.4625,-75.5875,Biomass,,,Natural Resources Canada
+CAN0002223,Robert-Bourassa,5616.0,53.7818,-77.5305,Hydro,,Hydro-Québec,Natural Resources Canada
+CAN0002224,Rocher-de-Grand-Mère,230.0,46.6139,-72.6751,Hydro,,Hydroelectric,Natural Resources Canada
+CAN0008301,Rock Forest,2.9,45.3418,-71.9935,Hydro,,Ville de Sherbrooke /Hydro Sherbrooke,Natural Resources Canada
+CAN0008302,Rocky Pond,3.3,47.2104,-52.895,Hydro,,,Natural Resources Canada
+CAN0002225,Romaine-1,270.0,50.3854,-63.2607,Hydro,,,Natural Resources Canada
+CAN0002226,Romaine-2,640.0,50.6246,-63.1941,Hydro,,Hydro-Québec,Natural Resources Canada
+CAN0008625,Roncevaux,74.8,48.1381,-67.4388,Wind,,Invenergy Wind LLC,Natural Resources Canada
+CAN0008305,Rose Blanche,6.0,47.6519,-58.713,Hydro,,,Natural Resources Canada
+CAN0008306,Roseway,2.0,43.7823,-65.3439,Hydro,,Nova Scotia Power Inc,Natural Resources Canada
+CAN0008309,Ruby Farms,2.0,42.9548,-81.6693,Solar,,Vine Fresh Produce Limited,Natural Resources Canada
+CAN0008310,Rundle,50.0,51.0887,-115.3736,Hydro,,TransAlta (100%),Natural Resources Canada
+CAN0002227,Ruskin,105.0,49.195,-122.4083,Hydro,,BC Hydro,Natural Resources Canada
+CAN0008312,Ruth Falls,7.1,44.9341,-62.5005,Hydro,,,Natural Resources Canada
+CAN0008313,Rutherford Creek,49.9,50.2727,-122.867,Hydro,,Innergex Inc,Natural Resources Canada
+CAN0008314,Ryerse,9.1,42.7841,-80.2655,Solar,,Skypower Ltd / Sunedison,Natural Resources Canada
+CAN0008315,S.P.C.,38.0,48.4212,-71.0839,Hydro,,Centrale S.P.C. Inc,Natural Resources Canada
+CAN0008343,SEC Windsor,5.7,45.558,-72.0077,Hydro,,Hydro-Windsor (Société en Commandite) /Innergex,Natural Resources Canada
+CAN0008412,SSM 1 (Carpin Rd.),12.0,46.5236,-84.4456,Solar,,Starwood Energy,Natural Resources Canada
+CAN0008413,SSM 1 (Leigh's Bay Rd.),12.0,46.5171,-84.4261,Solar,,Starwood Energy,Natural Resources Canada
+CAN0008414,SSM 2/3,45.0,46.5473,-84.2796,Solar,,Starwood Energy,Natural Resources Canada
+CAN0008316,Sable,13.8,45.3161,-60.9995,Wind,,Municipality of the District of Guysborough,Natural Resources Canada
+CAN0008317,Saint John,29.7,45.2589,-66.0945,Biomass,,,Natural Resources Canada
+CAN0008318,Saint Rose,2.0,46.3307,-61.1768,Wind,,,Natural Resources Canada
+CAN0008319,Saint-Alban,8.2,46.71,-72.0768,Hydro,,Algonquin Power,Natural Resources Canada
+CAN0008320,Saint-Damase,23.5,48.6248,-67.8674,Wind,,Algonquin Power,Natural Resources Canada
+CAN0008325,Saint-Félicien (Fibrek),42.7,48.7465,-72.5128,Biomass,,PF Résolu Canada Inc,Natural Resources Canada
+CAN0008326,Saint-Lambert,5.8,45.4959,-73.5153,Hydro,,Placements Énergétiques Blx Inc/Boralex Inc,Natural Resources Canada
+CAN0008327,Saint-Narcisse,15.0,46.5484,-72.4102,Hydro,,Hydro-Québec,Natural Resources Canada
+CAN0008328,Saint-Nicéphore LFG,7.6,45.8228,-72.3688,Biomass,,,Natural Resources Canada
+CAN0008626,Saint-Philémon,24.0,46.6594,-70.3566,Wind,,Capstone (51%),Natural Resources Canada
+CAN0008329,Saint-Raphaël,3.5,46.7982,-70.7366,Hydro,,Algonquin Power,Natural Resources Canada
+CAN0008330,Saint-Robert-Bellarmin,80.0,45.6746,-70.5751,Wind,,Enbridge (50%) / EDF Energies Nouvelles (20%) / Fiera Axium & Régime & Desjardins (30%),Natural Resources Canada
+CAN0008321,Sainte-Brigitte-des-Saults,4.2,46.0312,-72.4791,Hydro,,Algonquin Power,Natural Resources Canada
+CAN0008322,Sainte-Marguerite-1-1a,30.5,50.1971,-66.6362,Hydro,,Innergex Inc (50%) / Desjardins Group Pension Plan (50%),Natural Resources Canada
+CAN0008323,Sainte-Marguerite-2,24.0,50.2123,-66.6583,Hydro,,Compagnie Gulf Power,Natural Resources Canada
+CAN0002228,Sainte-Marguerite-3,882.0,50.7128,-66.7814,Hydro,,Hydroelectric,Natural Resources Canada
+CAN0008627,Sakwi Creek,6.0,49.3326,-121.8801,Hydro,,Sakwi Creek Hydro LP,Natural Resources Canada
+CAN0008331,Salmon Inlet (Sechelt Creek),17.0,49.6775,-123.5481,Hydro,,,Natural Resources Canada
+CAN0008332,Sandy Brook,5.5,48.891,-55.8228,Hydro,,,Natural Resources Canada
+CAN0008333,Sandy Falls,6.0,48.5113,-81.4434,Hydro,,Umh Energy Partnership  An Ontario General Partnership of Ontario Power Generation Inc and Umh Energy Inc,Natural Resources Canada
+CAN0008334,Sandy Lake,3.6,44.7116,-63.896,Hydro,,,Natural Resources Canada
+CAN0002229,Sarcelle,150.0,52.6678,-76.6326,Hydro,,Hydroelectric,Natural Resources Canada
+CAN0008336,Sarnia 1,20.0,42.9417,-82.3394,Solar,,Enbridge,Natural Resources Canada
+CAN0008337,Sarnia 2,60.0,42.9498,-82.3199,Solar,,Enbridge,Natural Resources Canada
+CAN0008338,Sarnia LFG,1.6,42.0279,-82.5638,Biomass,,,Natural Resources Canada
+CAN0008339,Saskatoon Landfill,1.6,52.0997,-106.7057,Biomass,,Saskatoon Light & Power,Natural Resources Canada
+CAN0008628,Savona ERG,6.0,50.7488,-120.8551,Other,,,Natural Resources Canada
+CAN0008340,Scarfe Lake,2.3,46.2659,-83.0127,Hydro,,1149377 Ontario Limited,Natural Resources Canada
+CAN0002082,Scotford (Shell),170.0,53.7985,-113.0943,Gas,,ATCO Power,Natural Resources Canada
+CAN1060819,Scotford Air Liquide,80.0,53.7987,-113.0848,Gas,2000.0,ATCO,Canadian Power Plant Database
+CAN0008341,Scott Falls,22.0,47.9101,-84.7447,Hydro,,Brookfield Renewable Power Inc,Natural Resources Canada
+CAN0008342,Seal Cove,3.5,47.4574,-53.0678,Hydro,,,Natural Resources Canada
+CAN0008344,Seegen 2 (Burnaby Incinerator),25.0,49.1864,-122.9777,Biomass,,,Natural Resources Canada
+CAN0002230,Seigneurie de Beaupré 2,131.2,47.3715,-70.8698,Wind,,Boralex Inc / Gazmetro,Natural Resources Canada
+CAN0002231,Seigneurie de Beaupré 3,140.6,47.3317,-70.8905,Wind,,Boralex Inc / Gazmetro,Natural Resources Canada
+CAN0008347,Seigneurie de Beaupré 4,67.9,47.2665,-70.9456,Wind,,Boralex Inc / Gazmetro,Natural Resources Canada
+CAN0002083,Selkirk,125.0,50.1344,-96.8518,Gas,,,Natural Resources Canada
+CAN0008348,Senneterre,35.0,48.3838,-77.223,Biomass,,Boralex Inc,Natural Resources Canada
+CAN0008349,Sept-Chutes,22.0,47.1227,-70.8286,Hydro,,Hydro-Québec,Natural Resources Canada
+CAN0008350,Serpent,7.2,46.219,-82.4409,Hydro,,,Natural Resources Canada
+CAN0008351,Seton,48.0,50.6727,-121.9241,Hydro,,BC Hydro,Natural Resources Canada
+CAN0008629,Settlers Landing,8.0,44.102,-78.6562,Wind,,Settlers Landing Wind Development Joint Venture,Natural Resources Canada
+CAN0002232,Seven Mile,805.0,49.0302,-117.5041,Hydro,,BC Hydro,Natural Resources Canada
+CAN0002233,Seven Sisters,165.0,50.1204,-96.0177,Hydro,,,Natural Resources Canada
+CAN0008354,Seymour,6.0,44.3215,-77.782,Hydro,,,Natural Resources Canada
+CAN0002084,Shand,276.0,49.0751,-102.8641,Coal,,Saskatchewan Power Corp,Natural Resources Canada
+CAN0002234,Shawinigan-2,200.0,46.5359,-72.7673,Hydro,,Hydro-Québec,Natural Resources Canada
+CAN0002235,Shawinigan-3,194.0,46.5338,-72.7656,Hydro,,Hydro-Québec,Natural Resources Canada
+CAN0002085,Sheerness,816.0,51.4426,-111.7919,Coal,,ATCO Power,Natural Resources Canada
+CAN0008357,Sheet Harbour,10.0,44.9558,-62.4982,Hydro,,,Natural Resources Canada
+CAN0008358,Shekak (Nagagami),18.0,49.8087,-84.499,Hydro,,,Natural Resources Canada
+CAN0002086,Shepard,873.0,50.9713,-113.8858,Gas,,Enmax,Natural Resources Canada
+CAN0008630,Shinish Creek Wind Farm,15.0,49.6602,-120.1222,Wind,,,Natural Resources Canada
+CAN0002236,Shipshaw,959.1,48.4484,-71.2148,Hydro,,Rio Tinto (Rt),Natural Resources Canada
+CAN0008360,Shuswap Falls,6.0,50.296,-118.8133,Hydro,,BC Hydro,Natural Resources Canada
+CAN0008361,Sidney,4.0,44.1315,-77.5934,Hydro,,,Natural Resources Canada
+CAN0008362,Sills Island,2.0,44.21,-77.5975,Hydro,,,Natural Resources Canada
+CAN0008363,Silver Falls,48.0,48.6609,-89.5974,Hydro,,,Natural Resources Canada
+CAN0008364,Silvercreek,10.0,42.695,-80.9791,Solar,,Silvercreek Nominee Inc,Natural Resources Canada
+CAN0008365,Simcoe Solar Energy Centre I,10.0,44.4761,-78.9752,Solar,,Terraform Ontario Solar LP,Natural Resources Canada
+CAN0008366,Simcoe Solar Energy Centre III,10.0,44.4166,-78.8859,Solar,,Terraform Ontario Solar LP,Natural Resources Canada
+CAN0008367,Sinnott,6.5,49.5325,-113.9773,Wind,,Canadian Hydro Developers,Natural Resources Canada
+CAN0002237,Sir Adam Beck 1,450.0,43.1492,-79.0443,Hydro,,,Natural Resources Canada
+CAN0002238,Sir Adam Beck 2,1499.0,43.1456,-79.0436,Hydro,,,Natural Resources Canada
+CAN0002239,Sir Adam Beck Pump,174.0,43.1446,-79.0599,Hydro,,,Natural Resources Canada
+CAN0008371,Sissiboo Falls,5.3,44.4308,-65.8722,Hydro,,,Natural Resources Canada
+CAN0008372,Sisson,9.0,47.266,-67.2434,Hydro,,,Natural Resources Canada
+CAN0008373,Site Nordique,4.1,48.9869,-64.4527,Wind,,Technocentre Eolien,Natural Resources Canada
+CAN0008631,Skookum Power (Mamquam Skookum),25.0,49.7205,-122.9956,Hydro,,,Natural Resources Canada
+CAN0008374,Skookumchuk,51.0,49.5284,-115.7578,Biomass,,,Natural Resources Canada
+CAN0008375,Skyway 8,9.5,44.0845,-80.3919,Wind,,Capstone Infrastructure Corp,Natural Resources Canada
+CAN0008376,Slave Falls,68.0,50.2221,-95.5687,Hydro,,,Natural Resources Canada
+CAN0008377,Slave Lake,9.0,55.2509,-114.5181,Biomass,,Slave Lake Pulp,Natural Resources Canada
+CAN0008378,Smiths Falls 1,6.0,44.8769,-76.007,Solar,,Aurora Smiths Falls 1 LP,Natural Resources Canada
+CAN0008379,Smiths Falls 2,10.0,44.95,-76.1139,Solar,,Aurora Smiths Falls 2 LP,Natural Resources Canada
+CAN0008380,Smiths Falls 3,6.5,44.9279,-76.1158,Solar,,Aurora Smiths Falls 3 LP,Natural Resources Canada
+CAN0008381,Smiths Falls 4,10.0,44.9479,-76.1422,Solar,,Aurora Smiths Falls 4 LP,Natural Resources Canada
+CAN0008382,Smiths Falls 5,10.0,44.9207,-76.1348,Solar,,Aurora Smiths Falls 5 LP,Natural Resources Canada
+CAN0008383,Smiths Falls 6,10.0,44.8547,-75.9818,Solar,,Aurora Smiths Falls 6 LP,Natural Resources Canada
+CAN0002240,Smoky Falls,267.0,50.0609,-82.1609,Hydro,,Ontario Power Generation,Natural Resources Canada
+CAN0008385,Smooth Rock Falls,7.4,49.2857,-81.6376,Hydro,,Gemini-Srf Power Corp,Natural Resources Canada
+CAN0008386,Snare Cascades,4.3,63.4211,-116.2238,Hydro,,,Natural Resources Canada
+CAN0008387,Snare Falls / Johnny Simpson,7.4,63.439,-116.1873,Hydro,,,Natural Resources Canada
+CAN0008388,Snare Forks,10.2,63.3252,-116.2977,Hydro,,,Natural Resources Canada
+CAN0008389,Snare Rapids / Ted Humphrys,8.5,63.5114,-116.0053,Hydro,,,Natural Resources Canada
+CAN0008390,Snowy Ridge,10.0,44.1689,-78.6293,Wind,,Snowy Ridge Wind Development Joint Venture,Natural Resources Canada
+CAN0008391,Soave Hydroponics,12.0,42.0644,-82.6805,Biomass,,,Natural Resources Canada
+CAN0008392,Société de Cogénération Saint-Félicien,21.0,48.6379,-72.4337,Biomass,,Green Leaf,Natural Resources Canada
+CAN0008393,Soderglen,70.5,49.5385,-113.5231,Wind,,Gw Power/Nexen (Advertized as 70 Mw - Keep An Eye On This),Natural Resources Canada
+CAN0002241,Sol-Luce Kingston,100.0,44.3118,-76.6511,Solar,,Kingston Solar LP,Natural Resources Canada
+CAN0008394,Solar Concentrating Steam Power Plant,1.0,50.0378,-110.7199,Solar,,,Natural Resources Canada
+CAN0008395,Solar Spirit 4,10.0,44.232,-77.3566,Solar,,Sune Solar Spirit LP,Natural Resources Canada
+CAN0008397,Solray Energy Epsom,10.0,44.1479,-79.0504,Solar,,Marsh Hill III LP,Natural Resources Canada
+CAN0008398,Solray Energy Sunderland,10.0,44.2808,-79.0347,Solar,,Sunderland Solar Farm LP,Natural Resources Canada
+CAN0008632,Soo River 2,13.0,50.2842,-122.9776,Hydro,,,Natural Resources Canada
+CAN0008399,South Branch,30.0,44.9437,-75.371,Wind,,South Dundas Windfarm LP,Natural Resources Canada
+CAN0002242,South Canoe,102.0,44.7668,-64.335,Wind,,,Natural Resources Canada
+CAN0008401,South Cape Mabou,2.0,46.1508,-61.3816,Wind,,,Natural Resources Canada
+CAN0008402,South Cranberry Creek 2,9.0,50.7716,-118.1041,Hydro,,Advanced Energy Systems 1 LP,Natural Resources Canada
+CAN0008403,South Falls,5.0,45.0031,-79.3054,Hydro,,,Natural Resources Canada
+CAN0002243,South Kent,270.0,42.3495,-82.1071,Wind,,South Kent Wind LP,Natural Resources Canada
+CAN0008405,South Side,10.0,42.084,-83.0425,Wind,,Gengrowth LP1,Natural Resources Canada
+CAN0008406,South Slocan,54.0,49.4555,-117.5197,Hydro,,,Natural Resources Canada
+CAN0008633,South Sutton Creek,5.0,49.2876,-125.3092,Hydro,,South Sutton Creek Hydro Inc,Natural Resources Canada
+CAN0008634,Southgate Solar,50.0,44.102,-80.7472,Solar,,Southgate Solar LP,Natural Resources Canada
+CAN0008407,Sparklelight,10.0,44.4631,-79.0662,Solar,,Sparklelight LP,Natural Resources Canada
+CAN0008408,Spillimacheen,4.0,50.9034,-116.4089,Hydro,,BC Hydro,Natural Resources Canada
+CAN0002244,Spray,112.0,51.0745,-115.4024,Hydro,,TransAlta (100%),Natural Resources Canada
+WKS0062199,Spring Valley ON,9.0,44.632,-75.805,Solar,,,Wiki-Solar
+CAN0008410,Springhill,1.2,45.6115,-64.0239,Wind,,,Natural Resources Canada
+CAN0008411,Springwood,8.2,43.7838,-80.404,Wind,,WPD Springwood Wind Inc,Natural Resources Canada
+CAN1060891,Spy Hill,86.0,57.0335,-111.6019,Gas,2011.0,TransAlta,Canadian Power Plant Database
+CAN0008635,Squamish Power Project,1.0,49.6761,-123.2614,Hydro,,Woodfibre LNG Ltd,Natural Resources Canada
+CAN0008437,St-Thomas,9.4,46.0639,-73.2555,Biomass,,,Natural Resources Canada
+CAN0002087,St. Clair,577.0,42.8973,-82.3984,Gas,,St. Clair Power LP,Natural Resources Canada
+CAN0008415,St. Clair Moore,20.0,42.8692,-82.4207,Solar,,Nextera Energy Inc,Natural Resources Canada
+CAN0008416,St. Clair Sombra,20.0,42.7113,-82.4619,Solar,,Nextera Energy Partners LP,Natural Resources Canada
+CAN0008417,St. Columban,33.0,43.5505,-81.2896,Wind,,St. Columban Energy LP,Natural Resources Canada
+CAN0008418,St. George,15.0,45.1283,-66.8279,Hydro,,,Natural Resources Canada
+CAN0008419,St. Isidore A,12.0,45.4289,-74.9374,Solar,,EDF Energies Nouvelles,Natural Resources Canada
+CAN0008420,St. Isidore B,12.0,45.3637,-74.9092,Solar,,EDF Energies Nouvelles,Natural Resources Canada
+CAN0002245,St. Joseph,138.0,49.1345,-97.4205,Wind,,Pattern Energy,Natural Resources Canada
+CAN0008422,St. Lawrence,27.0,46.95,-55.4293,Wind,,,Natural Resources Canada
+CAN0002246,St. Léon 1 / 2,120.5,49.3472,-98.6345,Wind,,Algonquin Power,Natural Resources Canada
+CAN0008424,St. Mary,2.0,49.3665,-113.1087,Hydro,,TransAlta (100%),Natural Resources Canada
+CAN0008425,St. Mary River,7.0,49.4526,-112.7165,Hydro,,Irrican Hydro,Natural Resources Canada
+CAN0008426,Stanley Adamson Powerhouse,3.9,44.3522,-78.2948,Hydro,,Trent Energy Inc,Natural Resources Canada
+CAN0008427,Stanton Dairy Farm,1.3,43.1003,-81.373,Biomass,,Stanton Dairy Farm,Natural Resources Canada
+CAN0008428,Star Lake,18.4,48.5523,-57.2057,Hydro,,,Natural Resources Canada
+CAN0008429,Stardale,33.2,45.5035,-74.5278,Solar,,Innergex Inc,Natural Resources Canada
+CAN0008430,Stave Falls,91.0,49.2288,-122.3561,Hydro,,BC Hydro,Natural Resources Canada
+CAN0008431,Steephill,16.0,48.0778,-84.7394,Hydro,,Brookfield Renewable Power Inc,Natural Resources Canada
+CAN1060914,Stephenville,54.0,48.55,-58.5818,Gas,1948.0,NB Power,Canadian Power Plant Database
+CAN0002247,Stewartville,182.0,45.4071,-76.5064,Hydro,,,Natural Resources Canada
+CAN0008433,Stinson,5.0,46.5213,-80.7104,Hydro,,,Natural Resources Canada
+CAN0008434,Stokke Creek,22.0,49.7111,-122.0343,Hydro,,Innergex Inc (50%) / Harrison Hydro Project (50%),Natural Resources Canada
+CAN0008435,Stone Mills,11.0,44.2959,-76.8975,Solar,,Dif Infrastructure III,Natural Resources Canada
+CAN0008436,Strathcona,64.0,49.9981,-125.5856,Hydro,,BC Hydro,Natural Resources Canada
+CAN0008438,Sturgeon Falls,8.8,48.7443,-92.2839,Hydro,,H2O Power LP,Natural Resources Canada
+CAN0008439,Sudbury LFG,1.6,46.507,-80.9002,Biomass,,Greater Sudbury Utilities,Natural Resources Canada
+CAN0002248,Summerhaven,124.4,42.87,-79.9377,Wind,,Summerhaven Wind  LP,Natural Resources Canada
+CAN0008441,Summerside,12.0,46.4344,-63.8035,Wind,,City of Summerside Electric Utility,Natural Resources Canada
+CAN0008442,Summerview 1,70.2,49.5829,-113.7931,Wind,,Vision Quest (TransAlta),Natural Resources Canada
+CAN0008443,Summerview 2,66.0,49.6026,-113.7341,Wind,,TransAlta,Natural Resources Canada
+CAN0008444,Sunbridge,11.2,50.0781,-108.393,Wind,,Suncor Enrgy Inc / Enbridge Inc,Natural Resources Canada
+CAN1060928,Suncor Utility Plant,70.0,45.4019,-75.6557,Gas,1967.0,TransAlta,Canadian Power Plant Database
+CAN0002088,Sundance,2141.0,53.5075,-114.5569,Coal,,TransAlta,Natural Resources Canada
+CAN0008445,Sune Bruining 1,10.0,44.9856,-75.013,Solar,,Sune South Stormont LP,Natural Resources Canada
+CAN0008446,Sune Newboro 1,10.0,44.6712,-76.273,Solar,,Sune Ray LP,Natural Resources Canada
+CAN0008447,Sune Newboro 4,10.0,44.649,-76.3555,Solar,,Sune Newboro 4 LP,Natural Resources Canada
+CAN0008448,Sune Rutley,10.0,45.017,-74.9659,Solar,,Sune Rutley LP,Natural Resources Canada
+CAN0008449,Sunningdale 1,7.0,43.0711,-81.1582,Solar,,Re Sunningdale LP,Natural Resources Canada
+CAN0008450,Sunny Shores,10.0,44.0561,-77.1519,Solar,,Sunny Shores LP,Natural Resources Canada
+CAN0008451,Swanton Line,10.0,42.2638,-82.2682,Wind,,,Natural Resources Canada
+CAN0008452,Swift Rapids,7.9,44.8569,-79.5396,Hydro,,Orillia Power Generation Corp,Natural Resources Canada
+CAN0008453,T.-D.-Bouchard,2.3,45.6219,-72.9498,Hydro,,Algonquin Power,Natural Resources Canada
+CAN0008454,Taber,85.1,49.7184,-111.9266,Wind,,Enmax Green Power Inc,Natural Resources Canada
+CAN0008455,Talbot,98.9,42.4375,-81.7961,Wind,,Talbot Windfarm  LP,Natural Resources Canada
+CAN0008456,Taltson,18.3,60.4186,-111.3949,Hydro,,,Natural Resources Canada
+CAN0008457,Taylor Coulee,12.7,49.3336,-112.8871,Hydro,,Canadian Hydro Developers,Natural Resources Canada
+CAN0008458,Taylor Lumber,1.2,45.0447,-63.1389,Biomass,,,Natural Resources Canada
+CAN0008459,Tembec Kapuskasing,15.0,49.4089,-82.4248,Biomass,,,Natural Resources Canada
+CAN0008460,Tembec Témiscaming 1-2,58.1,46.7094,-79.0954,Biomass,,Tembec Inc,Natural Resources Canada
+CAN0008461,Tennant Lake,3.1,49.5674,-125.6215,Hydro,,,Natural Resources Canada
+CAN0008462,Terrace Bay,20.0,48.7975,-87.1066,Biomass,,,Natural Resources Canada
+CAN0008463,Thames River I,40.0,42.2701,-82.2539,Wind,,,Natural Resources Canada
+CAN0008464,The Eye of the Wind,1.5,49.3875,-123.074,Wind,,,Natural Resources Canada
+CAN0008465,The Pas Mill,22.8,53.8615,-101.2175,Biomass,,,Natural Resources Canada
+CAN0008466,Thelwood,8.2,49.5424,-125.5642,Hydro,,Boliden Westmin Ltd,Natural Resources Canada
+CAN0008467,Thibaudeau-Ricard,5.3,46.5529,-72.7587,Hydro,,Thibaudeau-Ricard Inc,Natural Resources Canada
+CAN0008468,Thomas Low,4.0,45.4796,-76.6894,Hydro,,Renfrew Power Generation Inc,Natural Resources Canada
+CAN0002089,Thorold CGS,285.0,43.1071,-79.1983,Gas,,Thorold Cogen LP,Natural Resources Canada
+CAN0008469,Three Sisters,3.0,50.9985,-115.3746,Hydro,,TransAlta (100%),Natural Resources Canada
+CAN0008470,Thunder Bay Airport,8.5,48.3653,-89.3208,Solar,,Skypower / Canadian Solar,Natural Resources Canada
+CAN0008471,Thunder Bay Condensing Turbine,62.4,48.3579,-89.2317,Biomass,,Resolute FP Canada Inc,Natural Resources Canada
+CAN0002249,Thunderbay G3,135.0,48.3596,-89.2217,Biomass,,Ontario Power Generation Inc,Natural Resources Canada
+CAN0008473,Thurso 1-2,24.0,45.5982,-75.2557,Biomass,,,Natural Resources Canada
+CAN0008474,Tide Water,4.2,44.6914,-63.8913,Hydro,,Nova Scotia Power Inc,Natural Resources Canada
+CAN0008475,Tinker,36.8,46.8097,-67.7665,Hydro,,Algonquin Power,Natural Resources Canada
+CAN0008476,Tipella Creek,18.0,49.7409,-122.1622,Hydro,,Innergex Inc (50%) / Harrison Hydro Project (50%),Natural Resources Canada
+CAN0008477,Tobique,20.0,46.7801,-67.6953,Hydro,,,Natural Resources Canada
+CAN0008478,Tolko Kelowna Cogeneration,15.0,49.9014,-119.4994,Biomass,,Tolko Industries Ltd,Natural Resources Canada
+CAN0008479,Topsail,2.6,47.5395,-52.9191,Hydro,,,Natural Resources Canada
+CAN0008480,Tors Cove,6.9,47.2107,-52.8483,Hydro,,,Natural Resources Canada
+CAN0002250,Toulnustouc,526.0,49.9705,-68.1591,Hydro,,Hydro-Québec,Natural Resources Canada
+CAN0008482,Trail Road LFG,6.0,45.2372,-75.7637,Biomass,,Powertrail Inc,Natural Resources Canada
+CAN0002090,TransAlta Sarnia Cogeneration,444.0,42.9346,-82.4381,Gas,,TransAlta Generation Partnership  An Alberta General Partnership of TransAlta Generation Ltd and TransAlta Corp,Natural Resources Canada
+CAN0002251,Trenche,302.0,47.7521,-72.8783,Hydro,,Hydro-Québec,Natural Resources Canada
+CAN0002091,Trenton,307.0,45.6211,-62.6481,Coal,,,Natural Resources Canada
+CAN0008484,Tretheway Creek,21.2,49.7038,-122.0796,Hydro,,Innergex Inc,Natural Resources Canada
+CAN0008485,Trethewey Falls,2.0,44.9884,-79.2714,Hydro,,,Natural Resources Canada
+CAN0008486,Truro Heights,4.0,45.3181,-63.3411,Wind,,Truro Heights Community Wind Inc,Natural Resources Canada
+CAN0002092,Tufts Cove,500.0,44.6782,-63.5946,Gas,,,Natural Resources Canada
+CAN0008487,Tusket,2.7,43.8821,-65.9778,Hydro,,,Natural Resources Canada
+CAN0008488,Twin Falls,27.5,48.7468,-80.5817,Hydro,,H2O Power LP,Natural Resources Canada
+CAN0002252,Twin Falls (Iron Ore),225.0,53.4963,-64.5158,Hydro,,,Natural Resources Canada
+CAN0008490,Twin Falls (Kagiano),5.0,49.1899,-86.1172,Hydro,,Kagiano Power Corp,Natural Resources Canada
+CAN0008491,Twin Rivers,39.0,47.3702,-68.3318,Biomass,,,Natural Resources Canada
+CAN0008638,Tyson Creek,9.0,49.8371,-123.6858,Hydro,,,Natural Resources Canada
+CAN0008636,Témiscouata 1,23.5,47.6363,-69.1225,Wind,,Boralex,Natural Resources Canada
+CAN0008637,Témiscouata 2,51.7,47.6212,-69.1296,Wind,,Boralex,Natural Resources Canada
+CAN0008492,UBC Nexterra Bioenergy Research and Demonstration Facility,2.0,49.2602,-123.2545,Biomass,,,Natural Resources Canada
+CAN0008494,UNBC Bioenergy Plant,4.4,53.8926,-122.8149,Biomass,,University of Northern British Columbia,Natural Resources Canada
+CAN0008493,Umbata Falls,23.0,48.5358,-86.1442,Hydro,,Umbata Falls LP,Natural Resources Canada
+CAN0002253,Underwood,181.5,44.3416,-81.4533,Wind,,Enbridge Renewable Energy Infrastructure LP,Natural Resources Canada
+CAN0008496,Upper Bear,10.0,49.7954,-123.5721,Hydro,,,Natural Resources Canada
+CAN0008497,Upper Bonnington,66.0,49.4601,-117.4842,Hydro,,,Natural Resources Canada
+CAN0008498,Upper Clowhom,11.0,49.8543,-123.4461,Hydro,,Hydromax Energy Ltd,Natural Resources Canada
+CAN0008499,Upper Lake Falls,5.4,44.1574,-64.9984,Hydro,,,Natural Resources Canada
+CAN0008639,Upper Lillooet River,81.4,50.657,-123.4476,Hydro,,Innergex (66.7%) / Ledcor Power Group (33.3%),Natural Resources Canada
+CAN0008500,Upper Mamquam,25.0,49.7178,-123.0546,Hydro,,TransAlta (100%),Natural Resources Canada
+CAN0008501,Upper Salmon,84.0,48.1835,-56.1725,Hydro,,,Natural Resources Canada
+CAN0008502,Upper St Croix,2.0,44.9267,-64.0394,Hydro,,,Natural Resources Canada
+CAN0008503,Upper Stave River,33.0,49.566,-122.3503,Hydro,,Innergex Inc (50%) / Harrison Hydro Project (50%),Natural Resources Canada
+CAN0008504,Val Caron,10.0,46.6692,-80.9214,Solar,,Concord Val Caron Partnership,Natural Resources Canada
+CAN0008505,Valerie Falls,10.0,48.7918,-91.705,Hydro,,Valerie Falls Ltd Partnership,Natural Resources Canada
+CAN0008506,Valley Power,12.0,53.2063,-114.9826,Biomass,,Algonquin Power,Natural Resources Canada
+CAN1061002,Valleyview,90.0,54.94,-117.237,Gas,2001.0,GE & Plutonic Power,Canadian Power Plant Database
+CAN0008507,Vanderwell Contractors (1971),4.0,55.264,-114.5893,Biomass,,Vanderwell Contractors (1971),Natural Resources Canada
+CAN0008508,Vanzwolf,5.0,48.7078,-94.2516,Solar,,Rainy River First Nations Solar 2 LP,Natural Resources Canada
+CAN0008509,Vegreville Biodigester,1.0,53.6934,-111.9786,Biomass,,Highmark Renewables,Natural Resources Canada
+CAN0002266,Vents du Kempt,101.1,48.3172,-67.1408,Wind,,Le Club Éolectric (51%),Natural Resources Canada
+CAN1031025,Victoria Junction,66.0,46.1668,-60.1151,Oil,1975.0,Eolectric,Canadian Power Plant Database
+CAN0008510,Viger-Denonville,24.6,47.9173,-69.216,Wind,,Innergex Inc (50%) / RCM of Rivière-du-Loup,Natural Resources Canada
+CAN0008641,Volcano Creek,18.0,56.7289,-130.5977,Hydro,,,Natural Resources Canada
+CAN0008511,W.R. Beatty,11.7,45.9167,-76.9223,Hydro,,Waltham Énergie  Sec/Hydro-Pontiac Inc,Natural Resources Canada
+CAN0008512,Wabageshik,3.4,46.3163,-81.5207,Hydro,,,Natural Resources Canada
+CAN0008513,Wahleach,65.0,49.2366,-121.6807,Hydro,,BC Hydro,Natural Resources Canada
+CAN0008514,Wainfleet,9.0,42.8978,-79.3854,Wind,,Wainfleet Wind Energy Inc,Natural Resources Canada
+CAN0008515,Wainwright,10.0,49.8395,-92.8467,Solar,,New Ospvf 1 LP,Natural Resources Canada
+CAN0008516,Wainwright Falls,1.1,49.8217,-92.8763,Hydro,,,Natural Resources Canada
+CAN0008517,Walden North,16.0,50.6605,-121.9833,Hydro,,Innergex (51%) / Cayoose Creek Development Corp (49%),Natural Resources Canada
+CAN0008518,Walpole,20.0,42.9359,-80.1435,Solar,,Ge Energy Financial (90%) / Fiera Axium Infrastructure (10%),Natural Resources Canada
+CAN0008519,Walter Hardman,8.0,50.8139,-118.06,Hydro,,BC Hydro,Natural Resources Canada
+CAN0008642,Walton Community Wind Project,2.0,45.197,-63.9688,Wind,,Scotian Wind Fields,Natural Resources Canada
+CAN0002254,Waneta,493.2,49.0041,-117.6129,Hydro,,BC Hydro (33%) / Teck Metals (66%),Natural Resources Canada
+CAN0002255,Waneta Expansion,335.0,49.0047,-117.616,Hydro,,Fortis Inc (51%) / Columbia Power (32.5%) / Columbia Basin Trust (16.5%),Natural Resources Canada
+CAN0008522,Wasdell Falls,1.6,44.7808,-79.2937,Hydro,,Wasdell Falls Power Corp,Natural Resources Canada
+CAN0008523,Water Street Pumphouse,1.3,44.3371,-78.3131,Hydro,,Peterborough Utilities Commission,Natural Resources Canada
+CAN0008524,Waterloo,8.0,59.6319,-109.0555,Hydro,,Saskatchewan Power Corp,Natural Resources Canada
+CAN0008525,Waterloo LFG,4.6,43.4375,-80.5801,Biomass,,,Natural Resources Canada
+CAN0008526,Waterton Hydro,3.0,49.3291,-113.6732,Hydro,,TransAlta (100%),Natural Resources Canada
+CAN0008527,Waterton Wind,3.9,49.1897,-113.6806,Wind,,Vision Quest (TransAlta),Natural Resources Canada
+CAN0008528,Watsons Brook,9.3,48.9415,-57.9282,Hydro,,,Natural Resources Canada
+CAN0008529,Watts Wind,1.5,44.8991,-62.4661,Wind,,,Natural Resources Canada
+CAN0008530,Waubaushene 3,10.0,44.6575,-79.8048,Solar,,Aurora Waubaushene 3 LP,Natural Resources Canada
+CAN0008531,Waubaushene 4,8.0,44.7713,-79.6416,Solar,,Aurora Waubaushene 4 LP,Natural Resources Canada
+CAN0008532,Waubaushene 5,3.5,44.7706,-79.6018,Solar,,Aurora Waubaushene 5 LP,Natural Resources Canada
+CAN0008533,Wawaitin,15.0,48.3472,-81.4806,Hydro,,Umh Energy Partnership  An Ontario General Partnership of Ontario Power Generation Inc and Umh Energy Inc,Natural Resources Canada
+CAN0008534,Wawatay,13.5,48.6604,-86.2325,Hydro,,,Natural Resources Canada
+CAN0008535,Wedgeport (Watts Wind II),1.6,43.7528,-66.0139,Wind,,,Natural Resources Canada
+CAN0008536,Weedon,4.5,45.6617,-71.4636,Hydro,,Ville de Sherbrooke /Hydro Sherbrooke,Natural Resources Canada
+CAN0008537,Weican R/D,10.0,47.0329,-64.0168,Wind,,Weican,Natural Resources Canada
+CAN0008538,Welland,12.0,43.1547,-79.1924,Hydro,,,Natural Resources Canada
+CAN0008539,Welland Ridge Road,10.0,42.9743,-79.1965,Solar,,Sune Welland Ridge LP,Natural Resources Canada
+CAN0008540,Wellington,5.0,59.6274,-109.0178,Hydro,,Saskatchewan Power Corp,Natural Resources Canada
+CAN0002256,Wells,239.0,46.4315,-83.3859,Hydro,,Brookfield Renewable Power Inc,Natural Resources Canada
+CAN0008542,West Cape 1,19.8,46.7197,-64.3694,Wind,,Suez Renewable Energy,Natural Resources Canada
+CAN0008543,West Cape 2,79.2,46.6665,-64.3968,Wind,,Suez Renewable Energy,Natural Resources Canada
+CAN0002257,West Lincoln Niagara Region Wind Farm,230.0,42.9993,-79.5035,Wind,,,Natural Resources Canada
+CAN0008545,West Lorne Biooil Cogeneration,3.0,42.6039,-81.6116,Biomass,,,Natural Resources Canada
+CAN0008546,West Nipissing,8.7,46.3695,-79.9357,Hydro,,West Nipissing Power Generation,Natural Resources Canada
+CAN0002093,West Windsor,122.8,42.2807,-83.0876,Gas,,West Windsor Power,Natural Resources Canada
+CAN0008547,Westbury,4.3,45.498,-71.6201,Hydro,,Ville de Sherbrooke /Hydro Sherbrooke,Natural Resources Canada
+CAN0008548,Westlock (Dapp),17.0,54.4153,-114.1769,Biomass,,Drayton Valley Power (SPRD Program),Natural Resources Canada
+CAN0008549,Weyerhaeuser Grande Prairie,48.0,55.0711,-118.6907,Biomass,,Weyerhaeuser,Natural Resources Canada
+CAN0008550,Weymouth Falls,19.2,44.4075,-65.9491,Hydro,,,Natural Resources Canada
+CAN0008551,Whatshan,54.0,49.9106,-118.0718,Hydro,,BC Hydro,Natural Resources Canada
+CAN0008552,Whistler,7.6,50.1062,-122.9458,Hydro,,Rockford Energy Corp,Natural Resources Canada
+CAN1031067,Whitby,50.0,43.8594,-78.9033,Gas,1998.0,BC Hydro,Canadian Power Plant Database
+CAN0008553,White Otter Falls,5.5,49.2189,-82.6888,Hydro,,Nipiy-Wof Hydrokap LP,Natural Resources Canada
+CAN0008554,White River,7.5,48.594,-85.3008,Biomass,,,Natural Resources Canada
+CAN0008555,White Rock,2.9,45.0623,-64.3807,Hydro,,,Natural Resources Canada
+CAN0008556,Whitecourt,25.0,54.1624,-115.7336,Biomass,,Whitecourt Power Partnership,Natural Resources Canada
+CAN0008557,Whitedog Falls,68.0,50.1145,-94.8691,Hydro,,,Natural Resources Canada
+CAN0008558,Whitehorse,40.0,60.6984,-135.0435,Hydro,,,Natural Resources Canada
+CAN0008559,Whittington,6.2,44.0045,-80.1628,Wind,,WPD Whittington Wind Inc,Natural Resources Canada
+CAN0008560,Whynotts,4.0,44.4078,-64.4662,Wind,,,Natural Resources Canada
+CAN0008561,William Rutley,10.0,45.0076,-74.9746,Solar,,TransCanada Energy Ltd,Natural Resources Canada
+CAN0008562,Williams Lake,68.0,52.1613,-122.1712,Biomass,,Atlantic Power Corp,Natural Resources Canada
+CAN0008563,Wilson's Falls,2.3,45.0624,-79.3106,Hydro,,Bracebridge Generation Limited,Natural Resources Canada
+CAN0008643,Windsor Airport SF,50.0,42.281,-82.9351,Solar,,Windsor Solar LP,Natural Resources Canada
+CAN1031080,Windsor Cogeneration,68.0,42.2876,-82.9803,Gas,1996.0,Capital Power,Canadian Power Plant Database
+CAN0008564,Wintering Hills,88.0,51.2214,-112.5779,Wind,,Suncor / Teck,Natural Resources Canada
+CAN0008565,Wm Ottawa Landfill,6.4,45.2816,-75.9593,Biomass,,Waste Management of Canada Corp,Natural Resources Canada
+CAN0002258,Wolfe Island,197.8,44.179,-76.4725,Wind,,Melancthon Wolfe Wind LP,Natural Resources Canada
+CAN0008567,Woolwich Bio-En,2.9,43.6043,-80.5497,Biomass,,Woolwich Bio-En Inc,Natural Resources Canada
+CAN0002259,Wreck Cove,200.0,46.5314,-60.4402,Hydro,,,Natural Resources Canada
+CAN0002260,Wuskwatim,211.0,55.5383,-98.4938,Hydro,,Wuskwatim Power Ltd,Natural Resources Canada
+CAN0002094,Yellowhead,138.0,52.7234,-108.2318,Gas,,Saskatchewan Power Corp,Natural Resources Canada
+CAN0002095,York Energy Centre,393.0,44.0757,-79.5309,Gas,,York Energy Centre LP,Natural Resources Canada
+CAN0008570,Zeballos Lake,23.0,50.0535,-126.7797,Hydro,,,Natural Resources Canada
+CAN0008571,Zellstoff Celgar Mill,78.0,49.3361,-117.7275,Biomass,,Mercer International Group,Natural Resources Canada
+CAN0008572,Zephyr,10.0,42.9238,-81.9063,Wind,,,Natural Resources Canada

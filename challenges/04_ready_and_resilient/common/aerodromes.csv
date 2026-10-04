@@ -1,0 +1,86 @@
+aerodrome_id,name,lat,lon,longest_runway_ft,runway_surface,paved
+CFN6,Primrose Airport,55.39,-111.1198,3906,Gravel,False
+CAL4,Fort MacKay/Albian Aerodrome,57.2239,-111.419,7549,ASP,True
+CEB5,Fairview Airport,56.0814,-118.435,3506,ASP,True
+CEC3,Fox Lake Airport,58.47364,-114.54932,3500,SAND/GRAVEL,False
+CEC4,Jasper-Hinton Airport,53.3192,-117.753,4300,ASP,True
+CED4,Fox Creek Airport,54.38,-116.766,2950,ASPHALT,True
+CEE4,Hinton / Entrance Airport,53.3814,-117.701,3700,TURF,False
+CEE5,Wabasca Airport,55.96144,-113.81866,3544,ASP,True
+CEE6,Edmonton / Twin Island Airpark,53.47109,-113.15566,2900,TURF,False
+CEG5,Chipewyan Lake Airport,56.95134,-113.49826,3000,TURF,False
+CEH5,Red Earth Creek Airport,56.54614,-115.27575,3542,ASP,True
+CEJ6,Elk Point Airport,53.89295,-110.77202,4498,ASP,True
+CEL5,Valleyview Airport,55.03294,-117.29454,3300,ASP,True
+CEL6,Two Hills Airport,53.70976,-111.78816,2900,ASPHALT,True
+CEM5,Swan Hills Airport,54.6708,-115.415,4500,ASP,True
+CEN5,Cold Lake Regional Airport,54.4775,-110.269,3000,ASP,True
+CEP3,Barrhead Airport,54.09687,-114.43887,3500,ASP,True
+CEP5,Janvier Airport,55.9,-110.733,4500,GRAVEL,False
+CER3,Drayton Valley Industrial Airport,53.2658,-114.96,5066,ASP,True
+CER4,Fort McMurray / Mildred Lake Airport,57.0556,-111.574,5437,TREATED GRAVEL,False
+CES4,Westlock Airport,54.14173,-113.74044,3000,ASP,True
+CET2,Conklin (Leismer) Airport,55.6953,-111.279,5251,CLAY,False
+CEU2,Beaverlodge Airport,55.1842,-119.448,3000,ASP,True
+CEV2,Edra Airport,57.85,-113.25,3200,TURF,False
+CEV3,Vegreville Airport,53.5144,-112.027,4000,ASP,True
+CEV5,Mayerthorpe Airport,53.9375,-115.179,2950,ASPHALT,True
+CEV7,Tofield Airport,53.3713,-112.69673,3000,ASP,True
+CEW3,St. Paul Airport,53.9937,-111.37799,3500,ASP,True
+CEZ3,Edmonton / Cooking Lake Airport,53.4275,-113.116,2950,ASP,True
+CEZ4,Fort Vermilion Airport,58.4042,-115.951,3000,ASP,True
+CFA5,Grande Airport,56.3,-112.233,2400,TURF,False
+CFB4,Trout Lake Airport,56.49895,-114.54774,3000,TURF,False
+CFB5,Namur Lake Airport,57.3833,-112.8,2000,TURF,False
+CFB6,Edmonton / Josephburg Airport,53.728,-113.08657,4560,ASP,True
+CFD5,Grimshaw Airport,56.19611,-117.62528,2940,Turf / Snow,False
+CFF2,Christina Basin Airport,55.59,-111.823,2400,GRAVEL,False
+CFF3,Jean Lake Airport,57.4833,-113.883,2400,TURF,False
+CFG4,Debolt Airport,55.23524,-118.04003,2950,TURF,False
+CFG5,John D'Or Prairie Airport,58.4914,-115.138,3360,TURF,False
+CYFI,Fort Mackay / Firebag,57.27583,-110.97667,6890,Asphalt,True
+CFK4,Calling Lake Airport,55.3167,-113.25,2950,TURF,False
+CFL9,Johnson Lake Airport,57.5667,-110.317,2500,TURF,False
+CFM2,Birch Mountain Airport,57.7,-111.833,2700,TURF,False
+CFM4,Donnelly Airport,55.7094,-117.094,2953,ASPHALT,True
+CFM6,Teepee Airport,56.4594,-114.119,2400,TURF,False
+CFM7,Boyle Airport,54.57404,-112.82049,3000,TURF,False
+CFN5,La Crete Airport,58.17288,-116.33792,4400,ASP,True
+CFP5,Glendon Airport,54.2708,-111.067,2200,TURF,False
+CFQ7,Edmonton / Gartner Airport,53.28097,-113.45587,3000,TURF,False
+CFS5,Spirit River Municipal Airport,55.7838,-118.84081,3000,ASP,True
+CFS6,Loon River Airport,57.1419,-115.075,5900,ASP,True
+CFT8,Pelican Airport,56.1608,-113.474,3872,ASP,True
+CFU3,Chipman Airport,53.71875,-112.63586,2600,TURF,False
+CFU4,Garden River Airport,58.7139,-113.876,3000,TURF,False
+CFV6,Margaret Lake Airport,58.9458,-115.25654,4000,TURF/SOIL,False
+CFW2,Gordon Lake Airport,56.6167,-110.5,2200,GRS,False
+CFW4,Muskeg Tower Airport,57.1375,-110.893,2400,TURF,False
+CFX3,Doig Airport,56.95632,-119.51489,3000,TURF,False
+CFX4,Manning Municipal Airport,56.9508,-117.644,5577,ASP,True
+CFY2,Grist Lake Airport,55.4,-110.483,3000,SAND,False
+CLG3,Liege / CNRL Airport,57.0019,-113.194,3210,GRAVEL,False
+CMN6,Edmonton/Morinville (Mike's Field) Aerodrome,53.83694,-113.56333,2336,Turf,False
+CNP6,Nampa / Hockey,55.9149,-117.13616,1800,Turf,False
+CPL6,Parkland Airport,53.4741,-113.82428,2274,ASPH,True
+CRL4,Kirby Lake Airport,55.3556,-110.637,4920,UNK,False
+CSP3,Stony Plain (Stony Field) Airport,53.5375,-114.068,2345,TURF,False
+CYBF,Bonnyville Airport,54.3042,-110.744,4434,ASP,True
+CYEG,Edmonton International Airport,53.3097,-113.58,11000,ASP,True
+CYET,Edson Airport,53.5789,-116.465,6000,ASP,True
+CYLB,Lac La Biche Airport,54.7703,-112.032,5700,ASP,True
+CYLL,Lloydminster Airport,53.3092,-110.073,5577,ASP,True
+CYMM,Fort McMurray International Airport,56.6533,-111.222,7503,ASP,True
+CYNR,Fort Mackay / Horizon Airport,57.3817,-111.701,6000,UNK,False
+CYOD,CFB Cold Lake,54.405,-110.279,12600,ASP,True
+CYOJ,High Level Airport,58.6214,-117.165,5000,ASP,True
+CYOP,Rainbow Lake Airport,58.4914,-119.408,4539,ASP,True
+CYPE,Peace River Airport,56.2269,-117.447,5000,ASP,True
+CYPY,Fort Chipewyan Airport,58.7672,-111.117,5000,ASP,True
+CYQU,Grande Prairie Airport,55.1797,-118.885,8502,ASP,True
+CYVG,Vermilion Airport,53.35771,-110.82739,3300,ASP,True
+CYWM,Athabasca Airport,54.7431,-113.205,4000,ASP,True
+CYZH,Slave Lake Airport,55.29294,-114.77728,5561,ASP,True
+CYZU,Whitecourt Airport,54.1439,-115.787,5800,ASP,True
+CZHP,High Prairie Airport,55.3936,-116.475,3933,ASP,True
+CZVL,Edmonton / Villeneuve Airport,53.6675,-113.854,5001,ASP,True

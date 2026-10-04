@@ -1,0 +1,16 @@
+site_id,sensor_id,type,lat,lon,note
+YEG,YEG-RADAR,radar,53.3097,-113.58,"3D surveillance radar, instrumented range 8000 m"
+YEG,YEG-RF1,rf_direction_finder,53.3097,-113.58,bearing to drone controller uplink (rf1_bearing_deg)
+YEG,YEG-RF2,rf_direction_finder,53.324073,-113.552937,bearing to drone controller uplink (rf2_bearing_deg)
+YEG,YEG-AC,acoustic_array,53.3097,-113.58,"A-weighted level at the array, ~450 m reach"
+YEG,YEG-EO,eo_ir_camera,53.3097,-113.58,"onboard classifier label + confidence, ~1.5 km reach"
+GEN,GEN-RADAR,radar,53.3446,-114.3049,"3D surveillance radar, instrumented range 5000 m"
+GEN,GEN-RF1,rf_direction_finder,53.3446,-114.3049,bearing to drone controller uplink (rf1_bearing_deg)
+GEN,GEN-RF2,rf_direction_finder,53.35538,-114.327471,bearing to drone controller uplink (rf2_bearing_deg)
+GEN,GEN-AC,acoustic_array,53.3446,-114.3049,"A-weighted level at the array, ~450 m reach"
+GEN,GEN-EO,eo_ir_camera,53.3446,-114.3049,"onboard classifier label + confidence, ~1.5 km reach"
+RAH,RAH-RADAR,radar,53.5579,-113.4966,"3D surveillance radar, instrumented range 5000 m"
+RAH,RAH-RF1,rf_direction_finder,53.5579,-113.4966,bearing to drone controller uplink (rf1_bearing_deg)
+RAH,RAH-RF2,rf_direction_finder,53.546222,-113.475428,bearing to drone controller uplink (rf2_bearing_deg)
+RAH,RAH-AC,acoustic_array,53.5579,-113.4966,"A-weighted level at the array, ~450 m reach"
+RAH,RAH-EO,eo_ir_camera,53.5579,-113.4966,"onboard classifier label + confidence, ~1.5 km reach"

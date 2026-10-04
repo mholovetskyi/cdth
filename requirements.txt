@@ -1,0 +1,11 @@
+# Python 3.10+
+numpy>=1.24
+pandas>=2.0
+matplotlib>=3.7
+scikit-learn>=1.2
+networkx>=3.0
+shapely>=2.0
+pyproj>=3.5
+jupyterlab>=4.0
+# optional, only to read the GeoTIFF rasters in challenge 04
+rasterio>=1.3

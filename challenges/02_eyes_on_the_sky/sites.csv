@@ -1,0 +1,4 @@
+site_id,name,lat,lon,kind,alert_radius_m,advisory_radius_m
+YEG,Edmonton International Airport (CYEG),53.3097,-113.58,airport,3000,5600.0
+GEN,Genesee Generating Station,53.3446,-114.3049,power_plant,1000,
+RAH,Royal Alexandra Hospital Heliport (CFH7),53.5579,-113.4966,heliport,1000,1900.0

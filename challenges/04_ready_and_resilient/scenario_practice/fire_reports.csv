@@ -1,0 +1,15 @@
+fire_id,report_time,first_detected,origin_lat,origin_lon,estimated_size_ha,status,cause
+PRC-001,2030-05-05T23:00:00Z,2030-05-05T00:14:10Z,55.1828,-114.9177,2190,Out of control,Under investigation
+PRC-001,2030-05-06T23:00:00Z,2030-05-05T00:14:10Z,55.1828,-114.9177,8840,Out of control,Under investigation
+PRC-001,2030-05-07T23:00:00Z,2030-05-05T00:14:10Z,55.1828,-114.9177,26790,Out of control,Under investigation
+PRC-001,2030-05-08T23:00:00Z,2030-05-05T00:14:10Z,55.1828,-114.9177,43070,Out of control,Under investigation
+PRC-001,2030-05-09T23:00:00Z,2030-05-05T00:14:10Z,55.1828,-114.9177,58710,Out of control,Under investigation
+PRC-002,2030-05-05T23:00:00Z,2030-05-05T17:17:26Z,56.6454,-111.5587,160,Out of control,Under investigation
+PRC-002,2030-05-06T23:00:00Z,2030-05-05T17:17:26Z,56.6454,-111.5587,1800,Out of control,Under investigation
+PRC-002,2030-05-07T23:00:00Z,2030-05-05T17:17:26Z,56.6454,-111.5587,7920,Out of control,Under investigation
+PRC-002,2030-05-08T23:00:00Z,2030-05-05T17:17:26Z,56.6454,-111.5587,13710,Out of control,Under investigation
+PRC-002,2030-05-09T23:00:00Z,2030-05-05T17:17:26Z,56.6454,-111.5587,16250,Out of control,Under investigation
+PRC-003,2030-05-06T23:00:00Z,2030-05-06T01:40:36Z,56.303,-114.996,7580,Out of control,Under investigation
+PRC-003,2030-05-07T23:00:00Z,2030-05-06T01:40:36Z,56.303,-114.996,61240,Out of control,Under investigation
+PRC-003,2030-05-08T23:00:00Z,2030-05-06T01:40:36Z,56.303,-114.996,87770,Out of control,Under investigation
+PRC-003,2030-05-09T23:00:00Z,2030-05-06T01:40:36Z,56.303,-114.996,109160,Out of control,Under investigation

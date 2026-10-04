@@ -1,0 +1,16 @@
+event_id,event_type,mmsi,start,end,note
+E003,ais_gap_intentional,999097698,2025-09-01T11:23:00Z,2025-09-01T21:35:00Z,AIS off around a meeting with a dark vessel
+E004,rendezvous,999097698;DARK,2025-09-01T12:49:00Z,2025-09-01T19:14:00Z,"two vessels stationary together at sea, far from port"
+E005,rendezvous,999700059;999896180,2025-09-01T18:55:00Z,2025-09-02T01:19:00Z,"two vessels stationary together at sea, far from port"
+E006,ais_gap_intentional,999507638,2025-09-02T04:34:00Z,2025-09-04T15:28:00Z,AIS off while fishing inside the closed area
+E007,protected_area_entry,999507638,2025-09-02T05:14:00Z,2025-09-04T15:11:00Z,entered illustrative closed area AOI_DAVIS_CLOSED
+E008,identity_change,999608808;999053472,2025-09-02T12:35:00Z,2025-09-02T13:35:00Z,same hull starts broadcasting a different MMSI/name
+E014,loitering,999345681,2025-09-06T12:43:00Z,2025-09-07T06:54:00Z,loitering inside AOI_LANCASTER with AIS on
+E015,position_spoofing,999357945,2025-09-06T20:01:00Z,2025-09-06T23:34:00Z,broadcast positions do not match true position (circle)
+E017,ais_gap_intentional,999904494,2025-09-07T15:08:00Z,2025-09-09T07:31:00Z,AIS off while fishing inside the closed area
+E018,protected_area_entry,999904494,2025-09-07T15:32:00Z,2025-09-09T06:47:00Z,entered illustrative closed area AOI_DAVIS_CLOSED
+E019,mmsi_clone,999376390;999934473,2025-09-08T14:51:00Z,2025-09-09T12:13:00Z,one vessel broadcasts the MMSI and name of one vessel
+E021,position_spoofing,999820594,2025-09-08T17:22:00Z,2025-09-09T01:15:00Z,broadcast positions do not match true position (offset)
+E022,ais_gap_intentional,999519104,2025-09-08T18:54:00Z,2025-09-10T12:06:00Z,AIS off while fishing inside the closed area
+E023,protected_area_entry,999519104,2025-09-08T19:24:00Z,2025-09-10T11:07:00Z,entered illustrative closed area AOI_DAVIS_CLOSED
+E024,identity_change,999469638;999176439,2025-09-09T04:53:00Z,2025-09-09T05:53:00Z,same hull starts broadcasting a different MMSI/name
