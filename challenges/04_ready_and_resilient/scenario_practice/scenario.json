@@ -1,0 +1,16 @@
+{
+  "scenario": "practice",
+  "fictional": true,
+  "t0": "2030-05-04T18:00:00Z",
+  "decision_time": "2030-05-07T06:00:00Z",
+  "end_time": "2030-05-10T18:00:00Z",
+  "decision_hours_since_t0": 60,
+  "hours": 144,
+  "local_time": "Mountain Daylight Time = UTC-6",
+  "fires": [
+    "PRC-001",
+    "PRC-002",
+    "PRC-003"
+  ],
+  "data_cutoff": "none: full scenario released for practice"
+}

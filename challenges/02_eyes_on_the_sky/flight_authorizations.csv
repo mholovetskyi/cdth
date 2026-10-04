@@ -1,0 +1,12 @@
+site_id,operator,purpose,start_utc,end_utc,area_center_lat,area_center_lon,area_radius_m,max_alt_m,rf_band_ghz,operator_lat,operator_lon
+YEG,Licensed operator (fictional),wildlife survey,2025-09-16T18:38:00Z,2025-09-16T19:18:44Z,53.3097,-113.58,3000,120,2.4,53.29638,-113.57625
+YEG,Licensed operator (fictional),infrastructure inspection,2025-09-16T19:32:04Z,2025-09-16T20:18:14Z,53.3097,-113.58,3000,120,5.8,53.32197,-113.58711
+YEG,Licensed operator (fictional),security patrol,2025-09-20T00:41:58Z,2025-09-20T01:28:27Z,53.3097,-113.58,3000,120,5.8,53.31199,-113.55766
+YEG,Licensed operator (fictional),media (approved),2025-09-22T00:33:36Z,2025-09-22T01:16:56Z,53.3097,-113.58,3000,120,2.4,53.31274,-113.57854
+GEN,Licensed operator (fictional),wildlife survey,2025-09-21T20:07:57Z,2025-09-21T20:39:01Z,53.3446,-114.3049,1000,120,2.4,53.34424,-114.3081
+RAH,Licensed operator (fictional),security patrol,2025-09-16T00:01:32Z,2025-09-16T00:37:32Z,53.5579,-113.4966,1000,120,5.8,53.55869,-113.50182
+RAH,Licensed operator (fictional),security patrol,2025-09-15T22:08:57Z,2025-09-15T22:43:51Z,53.5579,-113.4966,1000,120,2.4,53.55844,-113.50279
+RAH,Licensed operator (fictional),infrastructure inspection,2025-09-16T14:41:42Z,2025-09-16T15:19:35Z,53.5579,-113.4966,1000,120,5.8,53.56262,-113.4928
+RAH,Licensed operator (fictional),infrastructure inspection,2025-09-17T15:50:17Z,2025-09-17T16:22:13Z,53.5579,-113.4966,1000,120,2.4,53.55667,-113.49156
+RAH,Licensed operator (fictional),security patrol,2025-09-19T00:21:27Z,2025-09-19T00:56:31Z,53.5579,-113.4966,1000,120,5.8,53.55735,-113.49419
+RAH,Licensed operator (fictional),media (approved),2025-09-20T20:30:24Z,2025-09-20T21:06:32Z,53.5579,-113.4966,1000,120,2.4,53.55613,-113.48982

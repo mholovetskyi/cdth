@@ -1,0 +1,16 @@
+{
+  "scenario": "eval",
+  "fictional": true,
+  "t0": "2030-05-20T18:00:00Z",
+  "decision_time": "2030-05-23T12:00:00Z",
+  "end_time": "2030-05-26T18:00:00Z",
+  "decision_hours_since_t0": 66,
+  "hours": 144,
+  "local_time": "Mountain Daylight Time = UTC-6",
+  "fires": [
+    "EVL-001",
+    "EVL-002",
+    "EVL-003"
+  ],
+  "data_cutoff": "everything after the decision time is withheld"
+}

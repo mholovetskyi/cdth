@@ -1,0 +1,27 @@
+host_id,community_id,host_name,lat,lon,capacity_people,road_node_id,nearest_aerodrome_id
+H01,C001,Edmonton reception centre network,53.55014,-113.46871,60000,N01683,CEE6
+H02,C005,St. Albert reception centre,53.63344,-113.63533,4000,N00660,CZVL
+H03,C006,Spruce Grove reception centre,53.53344,-113.91874,2500,N00422,CPL6
+H04,C002,Sherwood Park reception centre,53.51684,-113.3187,4000,N02378,CEE6
+H05,C010,Fort Saskatchewan reception centre,53.69814,-113.21382,1500,N03451,CFB6
+H06,C009,Leduc reception centre,53.26682,-113.55201,1500,N00816,CYEG
+H07,C003,Grande Prairie reception centre,55.16667,-118.80271,9000,N02790,CYQU
+H08,C037,Lac La Biche reception centre,54.7669,-111.96861,2500,N03775,CYLB
+H09,C029,Athabasca reception centre,54.71687,-113.28537,2000,N01668,CYWM
+H10,C020,Bonnyville reception centre,54.26684,-110.73505,1800,N03651,CYBF
+H11,C011,Cold Lake reception centre,54.46525,-110.18154,3000,N03712,CEN5
+H12,C021,St. Paul reception centre,53.98347,-111.28507,1500,N03611,CEW3
+H13,C023,Westlock reception centre,54.15016,-113.86876,1500,N00487,CES4
+H14,C024,Barrhead reception centre,54.13345,-114.40211,1200,N00476,CEP3
+H15,C014,Whitecourt reception centre,54.15015,-115.68548,2500,N03977,CYZU
+H16,C018,Slave Lake reception centre,55.28344,-114.76896,2000,N01660,CYZH
+H17,C031,High Prairie reception centre,55.4334,-116.4858,1200,N02600,CZHP
+H18,C017,Peace River reception centre,56.23715,-117.29176,2500,N03044,CYPE
+H19,C042,Valleyview reception centre,55.06673,-117.28585,800,N02715,CEL5
+H20,C036,Fox Creek reception centre,54.40007,-116.80238,800,N00101,CED4
+H21,C049,Manning reception centre,56.92166,-117.63117,600,N03071,CFX4
+H22,C027,High Level reception centre,58.51688,-117.13605,1500,N03090,CYOJ
+H23,C030,La Crête reception centre,58.18348,-116.40268,800,N03107,CFN5
+H24,C004,Fort McMurray reception centre,56.72676,-111.38103,8000,N03849,CYMM
+H25,C060,Oil sands work camps north of Fort McMurray (camp cluster),57.185,-111.646,15000,N03928,CAL4
+H26,C044,Wabasca reception centre,55.96667,-113.85,600,N01681,CEE5

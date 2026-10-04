@@ -1,0 +1,5 @@
+event_id,kind,mobile,start,end,lat_at_midpoint,lon_at_midpoint,power_dbm,note
+J1,jamming,True,2025-10-07T19:06:00Z,2025-10-07T21:42:00Z,52.23357,-113.83125,15.0,in-vehicle jammer (personal privacy device) moving on QE2
+J2,jamming,False,2025-10-08T12:00:00Z,2025-10-08T17:00:00Z,53.335,-113.525,33.0,stationary jammer at an industrial yard near Nisku
+S1,spoofing,False,2025-10-09T15:00:00Z,2025-10-09T19:30:00Z,53.25,-113.53,,spoofer beside QE2 near Leduc drags receivers east
+N1,natural,False,2025-10-07T03:00:00Z,2025-10-07T07:30:00Z,,,,geomagnetic storm: ionospheric scintillation across the region

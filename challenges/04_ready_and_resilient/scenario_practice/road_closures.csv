@@ -1,0 +1,49 @@
+edge_id,route,road_name,closed_from,reopened,status_note
+E01365,2,2 Highway,2030-05-07T21:43:12Z,,Closed due to wildfire
+E00069,2,2 Highway,2030-05-07T21:45:36Z,,Closed due to wildfire
+E00262,2,,2030-05-07T21:45:36Z,,Closed due to wildfire
+E00255,2,2 Highway,2030-05-07T21:45:36Z,,Closed due to wildfire
+E00263,2,2 Highway,2030-05-07T21:45:36Z,,Closed due to wildfire
+E00256,88,88 Highway,2030-05-07T21:45:36Z,,Closed due to wildfire
+E01558,2,2 Highway,2030-05-07T22:03:00Z,,Closed due to wildfire
+E01559,2,2 Highway,2030-05-07T22:03:00Z,,Closed due to wildfire
+E01611,2,,2030-05-07T22:03:00Z,,Closed due to wildfire
+E01612,2,,2030-05-07T22:03:00Z,,Closed due to wildfire
+E01613,2,2 Highway,2030-05-07T22:03:00Z,,Closed due to wildfire
+E01610,2,2 Highway,2030-05-07T22:03:00Z,,Closed due to wildfire
+E01622,2,,2030-05-07T22:03:00Z,,Closed due to wildfire
+E01691,2,3 Avenue,2030-05-07T22:03:00Z,,Closed due to wildfire
+E01641,2,2 Highway,2030-05-07T22:03:00Z,,Closed due to wildfire
+E01640,2,2 Highway,2030-05-07T22:03:00Z,,Closed due to wildfire
+E00070,2,Mitsue Industrial Access,2030-05-07T22:39:00Z,,Closed due to wildfire
+E00071,2,2 Highway,2030-05-07T22:39:00Z,,Closed due to wildfire
+E00264,88,88 Highway,2030-05-07T22:56:59Z,,Closed due to wildfire
+E02841,,,2030-05-08T20:26:59Z,,Closed due to wildfire
+E04360,63,Sakitawaw Trail,2030-05-08T22:45:00Z,,Closed due to wildfire
+E02537,63,Sakitawaw Trail,2030-05-08T22:45:00Z,,Closed due to wildfire
+E02726,63,Memorial Drive,2030-05-08T23:48:35Z,,Closed due to wildfire
+E04339,,,2030-05-08T23:48:35Z,,Closed due to wildfire
+E02842,63,Sakitawaw Trail,2030-05-08T23:48:35Z,,Closed due to wildfire
+E04344,63,Sakitawaw Trail,2030-05-08T23:48:35Z,,Closed due to wildfire
+E04341,63,,2030-05-08T23:48:35Z,,Closed due to wildfire
+E04340,63,,2030-05-08T23:48:35Z,,Closed due to wildfire
+E04359,63,Sakitawaw Trail,2030-05-08T23:48:35Z,,Closed due to wildfire
+E04345,63,,2030-05-09T04:07:47Z,,Closed due to wildfire
+E04706,63,,2030-05-09T04:07:47Z,,Closed due to wildfire
+E04346,63,Sakitawaw Trail,2030-05-09T04:07:47Z,,Closed due to wildfire
+E04707,63,,2030-05-09T04:07:47Z,,Closed due to wildfire
+E04708,63,Sakitawaw Trail,2030-05-09T05:23:23Z,,Closed due to wildfire
+E02535,63,,2030-05-09T08:04:11Z,,Closed due to wildfire
+E02536,63,Sakitawaw Trail,2030-05-09T08:04:11Z,,Closed due to wildfire
+E02540,69,Airport Road,2030-05-09T08:04:11Z,,Closed due to wildfire
+E02539,63,Sakitawaw Trail,2030-05-09T08:04:11Z,,Closed due to wildfire
+E02544,69,Saprae Creek Trail,2030-05-09T08:04:11Z,,Closed due to wildfire
+E02570,63,,2030-05-09T08:04:11Z,,Closed due to wildfire
+E02566,63,63 Highway,2030-05-09T08:04:11Z,,Closed due to wildfire
+E02551,63,,2030-05-09T08:04:11Z,,Closed due to wildfire
+E02541,69,Airport Road,2030-05-09T23:06:36Z,,Closed due to wildfire
+E02485,63,63 Highway,2030-05-09T23:06:36Z,,Closed due to wildfire
+E02569,,Airport Road,2030-05-09T23:06:36Z,,Closed due to wildfire
+E02567,63,63 Highway,2030-05-09T23:06:36Z,,Closed due to wildfire
+E02574,,Airport Road,2030-05-09T23:06:36Z,,Closed due to wildfire
+E02573,,Airport Road,2030-05-09T23:06:36Z,,Closed due to wildfire

@@ -1,0 +1,16 @@
+code,fbp_fuel_type,burnable_in_exercise_model,cells
+1,C-1,True,7870
+2,C-2,True,2124794
+3,C-3,True,621769
+4,C-4,True,677841
+5,C-5,True,1870
+11,D-1,True,1480746
+13,D-1/D-2 Aspen,True,192480
+31,O-1a,True,802755
+101,Non-fuel,False,174076
+102,Water,False,341364
+105,Vegetated non-fuel,False,571677
+415,M-1/M-2 (15% conifer),True,17689
+625,M-1/M-2 (25% conifer),True,288353
+650,M-1/M-2 (50% conifer),True,574042
+675,M-1/M-2 (75% conifer),True,95625

@@ -1,0 +1,19 @@
+station_id,name,lat,lon,aerodrome_id
+WX-CYMM,Fort McMurray (synthetic station),56.6533,-111.222,CYMM
+WX-CYZH,Slave Lake (synthetic station),55.29294,-114.77728,CYZH
+WX-CYOJ,High Level (synthetic station),58.6214,-117.165,CYOJ
+WX-CYPE,Peace River (synthetic station),56.2269,-117.447,CYPE
+WX-CYQU,Grande Prairie (synthetic station),55.1797,-118.885,CYQU
+WX-CYLB,Lac La Biche (synthetic station),54.7703,-112.032,CYLB
+WX-CYOD,CFB Cold Lake (synthetic station),54.405,-110.279,CYOD
+WX-CYPY,Fort Chipewyan (synthetic station),58.7672,-111.117,CYPY
+WX-CYEG,Edmonton (synthetic station),53.3097,-113.58,CYEG
+WX-CYWM,Athabasca (synthetic station),54.7431,-113.205,CYWM
+WX-CEE5,Wabasca (synthetic station),55.96144,-113.81866,CEE5
+WX-CEH5,Red Earth Creek (synthetic station),56.54614,-115.27575,CEH5
+WX-CFX4,Manning Municipal (synthetic station),56.9508,-117.644,CFX4
+WX-CYZU,Whitecourt (synthetic station),54.1439,-115.787,CYZU
+WX-CZHP,High Prairie (synthetic station),55.3936,-116.475,CZHP
+WX-CET2,Conklin (Leismer) (synthetic station),55.6953,-111.279,CET2
+WX-CFN5,La Crete (synthetic station),58.17288,-116.33792,CFN5
+WX-CEM5,Swan Hills (synthetic station),54.6708,-115.415,CEM5

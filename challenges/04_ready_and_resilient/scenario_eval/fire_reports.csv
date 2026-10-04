@@ -1,0 +1,8 @@
+fire_id,report_time,first_detected,origin_lat,origin_lon,estimated_size_ha,status,cause
+EVL-001,2030-05-21T23:00:00Z,2030-05-21T02:36:11Z,54.7037,-112.2683,1910,Out of control,Under investigation
+EVL-001,2030-05-22T23:00:00Z,2030-05-21T02:36:11Z,54.7037,-112.2683,8220,Out of control,Under investigation
+EVL-002,2030-05-21T23:00:00Z,2030-05-21T16:52:10Z,58.7075,-111.2927,130,Out of control,Under investigation
+EVL-002,2030-05-22T23:00:00Z,2030-05-21T16:52:10Z,58.7075,-111.2927,1340,Out of control,Under investigation
+EVL-003,2030-05-20T23:00:00Z,2030-05-20T21:37:32Z,58.4742,-117.6151,140,Out of control,Under investigation
+EVL-003,2030-05-21T23:00:00Z,2030-05-20T21:37:32Z,58.4742,-117.6151,5440,Out of control,Under investigation
+EVL-003,2030-05-22T23:00:00Z,2030-05-20T21:37:32Z,58.4742,-117.6151,19890,Out of control,Under investigation

@@ -1,0 +1,115 @@
+community_id,name,population,fire_impact_h,ordered,moved,trapped,exposed,close_calls,unnecessary
+C001,Edmonton,1010899,,False,0,0,0,0,0
+C002,Sherwood Park,70618,,False,0,0,0,0,0
+C003,Grande Prairie,70385,,False,0,0,0,0,0
+C004,Fort McMurray,66573,74.63,True,66569,0,4,0,0
+C005,St. Albert,57719,,False,0,0,0,0,0
+C006,Spruce Grove,38985,,False,0,0,0,0,0
+C007,Lloydminster,31582,,False,0,0,0,0,0
+C008,Stony Plain,17993,,False,0,0,0,0,0
+C009,Leduc,15561,,False,0,0,0,0,0
+C010,Fort Saskatchewan,14957,,False,0,0,0,0,0
+C011,Cold Lake,11595,,False,0,0,0,0,0
+C012,Hinton,9889,,False,0,0,0,0,0
+C013,Morinville,9848,,False,0,0,0,0,0
+C014,Whitecourt,8763,,False,0,0,0,0,0
+C015,Edson,7975,,False,0,0,0,0,0
+C016,Beaumont,7366,,False,0,0,0,0,0
+C017,Peace River,6842,,False,0,0,0,0,0
+C018,Slave Lake,6836,77.05,True,6836,0,0,0,0
+C019,Devon,6545,,False,0,0,0,0,0
+C020,Bonnyville,5975,,False,0,0,0,0,0
+C021,St. Paul,5728,,False,0,0,0,0,0
+C022,Vegreville,5708,,False,0,0,0,0,0
+C023,Westlock,4678,,False,0,0,0,0,0
+C024,Barrhead,4579,,False,0,0,0,0,0
+C025,Vermilion,4084,,False,0,0,0,0,0
+C026,Grande Cache,3276,,False,0,0,0,0,0
+C027,High Level,3159,,False,0,0,0,0,0
+C028,Fairview,2998,,False,0,0,0,0,0
+C029,Athabasca,2965,,False,0,0,0,0,0
+C030,La Crête,2911,,False,0,0,0,0,0
+C031,High Prairie,2878,,False,0,0,0,0,0
+C032,Clairmont,2799,,False,0,0,0,0,0
+C033,Gibbons,2790,,False,0,0,0,0,0
+C034,Grimshaw,2560,,False,0,0,0,0,0
+C035,Sexsmith,2461,,False,0,0,0,0,0
+C036,Fox Creek,2457,,False,0,0,0,0,0
+C037,Lac La Biche,2314,,False,0,0,0,0,0
+C038,Beaverlodge,2271,,False,0,0,0,0,0
+C039,Calmar,2228,,False,0,0,0,0,0
+C040,Tofield,1911,,False,0,0,0,0,0
+C041,Swan Hills,1900,,False,0,0,0,0,0
+C042,Valleyview,1863,,False,0,0,0,0,0
+C043,Lamont,1774,,False,0,0,0,0,0
+C044,Wabasca-Desmarais,1594,,False,0,0,0,0,0
+C045,Bon Accord,1529,,False,0,0,0,0,0
+C046,Wembley,1516,,False,0,0,0,0,0
+C047,Elk Point,1399,,False,0,0,0,0,0
+C048,Westlake,1363,,False,0,0,0,0,0
+C049,Manning,1359,,False,0,0,0,0,0
+C050,Two Hills,1352,,False,0,0,0,0,0
+C051,Mayerthorpe,1320,,False,0,0,0,0,0
+C052,Ardrossan,1238,,False,0,0,0,0,0
+C053,Spirit River,1157,,False,0,0,0,0,0
+C054,Smoky Lake,1063,,False,0,0,0,0,0
+C055,Falher,1001,,False,0,0,0,0,0
+C056,Plamondon,880,,False,0,0,0,0,0
+C057,Kinuso,880,,False,0,0,0,0,0
+C058,Hythe,854,,False,0,0,0,0,0
+C059,Mannville,828,,False,0,0,0,0,0
+C060,Fort MacKay,820,,False,0,0,0,0,0
+C061,Wandering River,820,,False,0,0,0,0,0
+C062,Fort Chipewyan,798,,False,0,0,0,0,0
+C063,Fox Lake,780,,False,0,0,0,0,0
+C064,Fort Vermilion,753,,False,0,0,0,0,0
+C065,Wedgewood,753,,False,0,0,0,0,0
+C066,Sandy Lake,740,,False,0,0,0,0,0
+C067,Joussard,730,,False,0,0,0,0,0
+C068,Little Buffalo,710,,False,0,0,0,0,0
+C069,Garden Creek,706,,False,0,0,0,0,0
+C070,Chateh,700,,False,0,0,0,0,0
+C071,McLennan,695,,False,0,0,0,0,0
+C072,Worsley,620,,False,0,0,0,0,0
+C073,Frog Lake,580,,False,0,0,0,0,0
+C074,Berwyn,577,,False,0,0,0,0,0
+C075,Saprae Creek,572,,False,0,0,0,0,0
+C076,Cadotte Lake,560,,False,0,0,0,0,0
+C077,Rycroft,550,,False,0,0,0,0,0
+C078,Paddle Prairie,544,,False,0,0,0,0,0
+C079,Anzac,506,,False,0,0,0,0,0
+C080,Draper,500,,False,0,0,0,500,0
+C081,Rainbow Lake,495,,False,0,0,0,0,0
+C082,Atikameg,480,,False,0,0,0,0,0
+C083,Goodfish Lake,470,,False,0,0,0,0,0
+C084,Hondo,460,,False,0,0,0,0,0
+C085,Calling Lake,450,,False,0,0,0,0,0
+C086,Grassland,450,,False,0,0,0,0,0
+C087,Keg River,440,,False,0,0,0,0,0
+C088,Hines Creek,440,,False,0,0,0,0,0
+C089,Faust,430,,False,0,0,0,0,0
+C090,Chard,430,,False,0,0,0,0,0
+C091,John D'Or Prairie,400,,False,0,0,0,0,0
+C092,Kikino,400,,False,0,0,0,0,0
+C093,Entwistle,389,,False,0,0,0,0,0
+C094,Kehewin Cree Nation,370,,False,0,0,0,0,0
+C095,Boyle,370,,False,0,0,0,0,0
+C096,Meander River,370,,False,0,0,0,0,0
+C097,Assumption,370,,False,0,0,0,0,0
+C098,Nampa,367,,False,0,0,0,0,0
+C099,Donnelly,342,,False,0,0,0,0,0
+C100,Smith,300,,False,0,0,0,0,0
+C101,Flatbush,290,,False,0,0,0,0,0
+C102,Grouard,280,,False,0,0,0,0,0
+C103,Girouxville,278,,False,0,0,0,0,0
+C104,Eaglesham,240,,False,0,0,0,0,0
+C105,St. Isidore,236,,False,0,0,0,0,0
+C106,Driftpile,220,,False,0,0,0,0,0
+C107,La Glace,179,,False,0,0,0,0,0
+C108,Fort Assiniboine,176,,False,0,0,0,0,0
+C109,Radway,171,,False,0,0,0,0,0
+C110,Conklin,170,,False,0,0,0,0,0
+C111,Loon Lake,170,,False,0,0,0,0,0
+C112,Red Earth,160,,True,160,0,0,0,0
+C113,Gift Lake,150,,False,0,0,0,0,0
+C114,Wabasca,150,,False,0,0,0,0,0
